@@ -533,7 +533,7 @@ footer {
             <li>Extensible client schema registry — new payroll formats onboarded without touching pipeline code; summary totals fallback recomputes from employee-level data when the model misses the aggregate row.</li>
             <li>Batch processing via Celery + Redis handles multiple files in parallel; workers auto-scale on ECS Fargate based on queue depth and recover automatically from crashes.</li>
             <li>Deployed on AWS ECS Fargate — API and worker as separate services behind an ALB; CloudFront with S3 (frontend) and ALB (API) as dual origins; DDoS protection via AWS Shield; all secrets managed through ECS Task Definition environment variables.</li>
-            <li>Validated against 10+ real-world certified payroll PDFs across multiple clients — end-to-end accuracy above 70%.</li>
+            <li>Validated against 10+ real-world certified payroll PDFs across multiple clients — end-to-end accuracy above 90%.</li>
           </ul>
         </div>
       </div>
