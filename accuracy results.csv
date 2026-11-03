@@ -1,0 +1,1001 @@
+,id,text,label,lang,category,predicted,probability,correct
+0,1,Friday half day le sakta hu kya?,leave_management,hinglish,standard,leave_management,0.977,TRUE
+1,2,"I lost my ID card, how do I get a new one?",service_request,en,standard,service_request,0.998,TRUE
+2,3,Please add my son as my dependant for medical insurance,employee_profile,en,standard,employee_profile,0.95,TRUE
+3,4,The shared finance drive is not working since morning,service_request,en,standard,service_request,0.974,TRUE
+4,5,When is the Diwali party?,other,en,standard,other,0.937,TRUE
+5,6,Employee profile mein mera salary bank account theek karo,employee_profile,hinglish,standard,employee_profile,0.958,TRUE
+6,7,Please cancel my earned leave for Monday,leave_management,en,standard,leave_management,1,TRUE
+7,8,February ki salary abhi tak credit nahi hui,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+8,9,Kya raat 9 ke baad cab claim krna allowed hai? Policy kya kehti hai,policy_query,hinglish,unseen_policy,policy_query,0.996,TRUE
+9,10,WFH ke baare mein policy batao,policy_query,hinglish,standard,policy_query,0.999,TRUE
+10,11,When is the team outing?,other,en,standard,other,0.968,TRUE
+11,12,Who should I contact about the relocation policy?,policy_query,en,unseen_policy,policy_query,0.989,TRUE
+12,13,Why is my arrears different this month?,payroll_query,en,standard,payroll_query,0.999,TRUE
+13,14,Please book the conference hall for the 15th,service_request,en,standard,other,0.853,FALSE
+14,15,Is there a cricket tournament this month?,other,en,standard,other,0.989,TRUE
+15,16,where can i edit my pan number on the portal,employee_profile,en,noisy,employee_profile,0.969,TRUE
+16,17,What is my PF balance?,payroll_query,en,boundary,payroll_query,0.998,TRUE
+17,18,Meri mummy ko medical insurance dependant add karna hai,employee_profile,hinglish,standard,employee_profile,0.966,TRUE
+18,19,Visa ke liye NOC chahiye,service_request,hinglish,standard,service_request,0.947,TRUE
+19,20,internet bill reimbursement policy ka document kahan milega,policy_query,hinglish,unseen_policy,policy_query,0.987,TRUE
+20,21,hra proof tax ke liye kahan submit krna hai?,payroll_query,hinglish,noisy,payroll_query,0.968,TRUE
+21,22,Ugadi pe chutti hai kia,leave_management,hinglish,noisy,leave_management,0.933,TRUE
+22,23,"Manager ne SL reject kar di, ab kya karu?",leave_management,hinglish,standard,leave_management,0.969,TRUE
+23,24,Is Sankranti a holiday this year,leave_management,en,noisy,leave_management,0.958,TRUE
+24,25,Shift allowance ka policy kya hai?,policy_query,hinglish,boundary,policy_query,0.787,TRUE
+25,26,can hr issue an employment verification letter? it's for my credit card application,service_request,en,noisy,service_request,0.999,TRUE
+26,27,please add my mother as my pf nominee,employee_profile,en,noisy,employee_profile,0.988,TRUE
+27,28,Cafeteria kitne baje khulta hai?,other,hinglish,standard,other,0.991,TRUE
+28,29,Diwali party mein family la sakte hai kya?,other,hinglish,standard,policy_query,0.542,FALSE
+29,30,Does company policy allow me to carry my office laptop abroad?,policy_query,en,unseen_policy,policy_query,0.926,TRUE
+30,31,Portal pe emergency contact kahan edit hota hai?,employee_profile,hinglish,standard,employee_profile,0.998,TRUE
+31,32,Employee profile mein mera personal email theek karo,employee_profile,hinglish,standard,employee_profile,0.982,TRUE
+32,33,Is there a Diwali party this month?,other,en,standard,other,0.964,TRUE
+33,34,Where can I read the employee referral bonus policy document?,policy_query,en,unseen_policy,policy_query,0.747,TRUE
+34,35,Can HR issue a NOC letter? It's for a visa application,service_request,en,standard,service_request,0.985,TRUE
+35,36,social media policy ka document kahan milega,policy_query,hinglish,unseen_policy,policy_query,0.993,TRUE
+36,37,Portal pe mobile number kahan edit hota hai?,employee_profile,hinglish,standard,employee_profile,0.992,TRUE
+37,38,Cricket tournament kab h,other,hinglish,noisy,other,0.978,TRUE
+38,39,Sabbatical ki guidelines share kro pls,policy_query,hinglish,unseen_policy,policy_query,0.582,TRUE
+39,40,Does company policy allow me to claim a cab ride after 9 pm?,policy_query,en,unseen_policy,policy_query,0.999,TRUE
+40,41,Mera address update karna hai,employee_profile,hinglish,standard,employee_profile,0.999,TRUE
+41,42,Travel claim ki guidelines share karo pls,policy_query,hinglish,noisy,policy_query,0.998,TRUE
+42,43,April ki salary abhi tak credit nhi hui,payroll_query,hinglish,noisy,payroll_query,0.999,TRUE
+43,44,How is incentive calculated in my salary?,payroll_query,en,standard,payroll_query,0.992,TRUE
+44,45,I need a NOC letter for my credit card application,service_request,en,standard,service_request,0.992,TRUE
+45,46,employee profile mein mera mobile number theek kro,employee_profile,hinglish,noisy,employee_profile,0.998,TRUE
+46,47,"Mera ID card kho gaya, naya kese milega",service_request,hinglish,noisy,service_request,0.999,TRUE
+47,48,HRA mein deduction samajh nahi aaya,payroll_query,hinglish,standard,payroll_query,0.963,TRUE
+48,49,How do I download my tax computation sheet?,payroll_query,en,standard,payroll_query,0.98,TRUE
+49,50,GitHub ka access chahiye,service_request,hinglish,standard,service_request,0.997,TRUE
+50,51,mere papa ko insurance nominee add krna h,employee_profile,hinglish,noisy,employee_profile,0.997,TRUE
+51,52,kia jeans pehen ke office aana allowed h? policy kia kehti h,policy_query,hinglish,unseen_policy,policy_query,0.999,TRUE
+52,53,Who should I contact about the appraisal cycle policy?,policy_query,en,unseen_policy,policy_query,0.99,TRUE
+53,54,Rent agreement ke liye NOC chahiye,service_request,hinglish,standard,service_request,0.974,TRUE
+54,55,Can HR issue a NOC letter? It's for a passport application,service_request,en,standard,service_request,0.988,TRUE
+55,56,Kya WFH ke liye koi policy hai?,policy_query,hinglish,standard,policy_query,0.999,TRUE
+56,57,Friday ke liye conference hall book karo,service_request,hinglish,standard,other,0.699,FALSE
+57,58,when will my salary for march be credited,payroll_query,en,noisy,payroll_query,0.999,TRUE
+58,59,Take home salary abhi tak nahi mila,payroll_query,hinglish,standard,payroll_query,0.998,TRUE
+59,60,Shaadi ki chutti carry forward hoga kia,leave_management,hinglish,noisy,leave_management,0.895,TRUE
+60,61,Can you reset my email password?,service_request,en,standard,service_request,0.989,TRUE
+61,62,Am I allowed to work from another city for two weeks as per company rules?,policy_query,en,unseen_policy,policy_query,0.967,TRUE
+62,63,"Keyboard garam ho raha hai, IT ticket raise karo",service_request,hinglish,standard,service_request,0.99,TRUE
+63,64,"Manager ne shaadi ki chutti reject kar di, ab kya karu?",leave_management,hinglish,standard,leave_management,0.968,TRUE
+64,65,Bonus mein deduction samajh nahi aaya,payroll_query,hinglish,standard,payroll_query,0.998,TRUE
+65,66,Why is my overtime pay different this month?,payroll_query,en,standard,payroll_query,0.995,TRUE
+66,67,shubh ratri,other,hinglish,noisy,other,0.998,TRUE
+67,68,system mein mera address galat hai,employee_profile,hinglish,noisy,employee_profile,0.997,TRUE
+68,69,How many days of maternity leave is an employee entitled to by policy?,policy_query,en,boundary,leave_management,0.527,FALSE
+69,70,August ki salary abhi tak credit nahi hui,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+70,71,Can I carry forward my unused earned leave?,leave_management,en,standard,leave_management,0.948,TRUE
+71,72,CL portal pe kese apply karu,leave_management,hinglish,noisy,leave_management,0.815,TRUE
+72,73,Is weekend hackathon hai kya?,other,hinglish,standard,other,0.892,TRUE
+73,74,Team outing kab hai?,other,hinglish,standard,other,0.834,TRUE
+74,75,kia internet bill reimbursement ke liye koi policy h?,policy_query,hinglish,unseen_policy,policy_query,0.993,TRUE
+75,76,Why was extra take-home pay deducted this month?,payroll_query,en,standard,payroll_query,0.999,TRUE
+76,77,Portal pe salary bank account kahan edit hota hai?,employee_profile,hinglish,standard,employee_profile,0.966,TRUE
+77,78,Can you explain the shift allowance in my payslip?,payroll_query,en,standard,payroll_query,0.995,TRUE
+78,79,payslip mein incentive zyada kyun kata?,payroll_query,hinglish,noisy,payroll_query,0.999,TRUE
+79,80,Kal half day le sakta hu kya?,leave_management,hinglish,standard,leave_management,0.983,TRUE
+80,81,Appraisal ka policy kya hai?,policy_query,hinglish,unseen_policy,policy_query,0.991,TRUE
+81,82,Can you explain the bonus in my payslip?,payroll_query,en,standard,payroll_query,1,TRUE
+82,83,February ka payslip chahiye,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+83,84,I need my payslip for December,payroll_query,en,standard,payroll_query,0.999,TRUE
+84,85,Is there any policy on appraisal cycle?,policy_query,en,unseen_policy,policy_query,0.994,TRUE
+85,86,Blood donation camp kab hai?,other,hinglish,standard,other,0.941,TRUE
+86,87,salesforce is not working since morning,service_request,en,noisy,service_request,0.978,TRUE
+87,88,Next Tuesday ke liye conference hall book karo,service_request,hinglish,standard,other,0.743,FALSE
+88,89,Rent agreement ke liye experience letter chahiye,service_request,hinglish,standard,service_request,0.999,TRUE
+89,90,How do I download my annual CTC statement?,payroll_query,en,standard,payroll_query,0.927,TRUE
+90,91,pls correct my aadhaar details in my employee profile,employee_profile,en,noisy,employee_profile,0.988,TRUE
+91,92,Mere husband ko medical insurance dependant add karna hai,employee_profile,hinglish,standard,employee_profile,0.943,TRUE
+92,93,Is there any policy on travel reimbursement?,policy_query,en,standard,policy_query,1,TRUE
+93,94,LTA abhi tak nahi mila,payroll_query,hinglish,standard,leave_management,0.526,FALSE
+94,95,Finance drive ka access chahiye,service_request,hinglish,standard,service_request,0.99,TRUE
+95,96,why was extra variable pay deducted this month?,payroll_query,en,noisy,payroll_query,0.999,TRUE
+96,97,Has the sabbatical policy changed this year?,policy_query,en,unseen_policy,policy_query,0.837,TRUE
+97,98,"Shaadi ho gayi, records update karne hai",employee_profile,hinglish,standard,employee_profile,0.999,TRUE
+98,99,June ki salary kab aayegi?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+99,100,company rules ke hisaab se dusre city se 2 hafte kaam krna allowed h kia,policy_query,hinglish,unseen_policy,policy_query,0.944,TRUE
+100,101,Apply maternity leave from 1st December,leave_management,en,boundary,leave_management,0.998,TRUE
+101,102,Can I bring my family to the annual day?,other,en,standard,other,0.646,TRUE
+102,103,Salesforce subah se kaam nahi kar raha,service_request,hinglish,standard,service_request,0.96,TRUE
+103,104,Parso ki SL apply karni hai,leave_management,hinglish,standard,leave_management,0.941,TRUE
+104,105,"naya monitor chahiye, kese request karu",service_request,hinglish,noisy,service_request,0.99,TRUE
+105,106,Why was extra PF deduction deducted this month?,payroll_query,en,standard,payroll_query,0.999,TRUE
+106,107,Can I bring my family to the Diwali party?,other,en,standard,other,0.679,TRUE
+107,108,Namaste,other,hinglish,standard,other,0.997,TRUE
+108,109,Where can I edit my personal email on the portal?,employee_profile,en,standard,employee_profile,0.977,TRUE
+109,110,"Naya mouse chahie, kese request karu",service_request,hinglish,noisy,service_request,0.987,TRUE
+110,111,Maternity leave portal pe kaise apply karu?,leave_management,hinglish,standard,leave_management,0.983,TRUE
+111,112,Please cancel my bereavement leave for Friday,leave_management,en,standard,leave_management,0.999,TRUE
+112,113,mere kitne casual leave bache h,leave_management,hinglish,noisy,leave_management,0.999,TRUE
+113,114,bye,other,en,noisy,other,0.981,TRUE
+114,115,Appraisal ki guidelines share karo please,policy_query,hinglish,unseen_policy,policy_query,0.924,TRUE
+115,116,Can I carry forward my unused maternity leave?,leave_management,en,standard,leave_management,0.928,TRUE
+116,117,HR se NOC milega kya? Rent agreement ke liye chahiye,service_request,hinglish,standard,service_request,0.982,TRUE
+117,118,Company rules ke hisaab se office laptop bahar le jaana allowed hai kya?,policy_query,hinglish,unseen_policy,policy_query,0.625,TRUE
+118,119,Can you explain the company rules on gratuity?,policy_query,en,unseen_policy,payroll_query,0.511,FALSE
+119,120,Where can I edit my residential address on the portal?,employee_profile,en,standard,employee_profile,0.998,TRUE
+120,121,Payslip mein TDS zyada kyun kata?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+121,122,Is mahine TDS kam kyun hai?,payroll_query,hinglish,standard,payroll_query,0.997,TRUE
+122,123,Can HR issue an experience letter? It's for a home loan,service_request,en,standard,service_request,0.999,TRUE
+123,124,"My monitor is very slow, please raise a ticket",service_request,en,standard,service_request,0.99,TRUE
+124,125,"September salary is not credited yet, please check",payroll_query,en,standard,payroll_query,0.999,TRUE
+125,126,What is the work from home policy?,policy_query,en,standard,policy_query,1,TRUE
+126,127,Please correct my highest qualification in my employee profile,employee_profile,en,standard,employee_profile,0.984,TRUE
+127,128,How do I change my phone number in HR records?,employee_profile,en,standard,employee_profile,0.998,TRUE
+128,129,"Naya laptop chahiye, kaise request karu?",service_request,hinglish,standard,service_request,0.998,TRUE
+129,130,i want to update my emergency contact,employee_profile,en,noisy,employee_profile,1,TRUE
+130,131,Can you explain the company rules on code of conduct?,policy_query,en,standard,policy_query,1,TRUE
+131,132,Am I allowed to take my laptop home on weekends as per company rules?,policy_query,en,unseen_policy,policy_query,0.912,TRUE
+132,133,I need my payslip for April,payroll_query,en,standard,payroll_query,1,TRUE
+133,134,Kya sabbatical ke liye koi policy hai?,policy_query,hinglish,unseen_policy,leave_management,0.531,FALSE
+134,135,The LTA looks wrong in my February payslip,payroll_query,en,standard,payroll_query,0.997,TRUE
+135,136,My blood group is wrong in the system,employee_profile,en,standard,employee_profile,0.981,TRUE
+136,137,CTC letter kahan se download karu?,payroll_query,hinglish,noisy,service_request,0.703,FALSE
+137,138,Company rules ke hisaab se weekend pe freelancing karna allowed hai kya?,policy_query,hinglish,unseen_policy,policy_query,0.944,TRUE
+138,139,Is there a holiday on Sankranti in the Hyderabad office?,leave_management,en,standard,leave_management,0.969,TRUE
+139,140,Maternity leave carry forward hoga kya?,leave_management,hinglish,standard,leave_management,0.918,TRUE
+140,141,What does our policy say about whistleblower?,policy_query,en,unseen_policy,policy_query,0.998,TRUE
+141,142,Vendor gift ke baare mein policy batao,policy_query,hinglish,unseen_policy,policy_query,0.986,TRUE
+142,143,HR se NOC milega kya? Visa ke liye chahiye,service_request,hinglish,standard,service_request,0.975,TRUE
+143,144,why is my bonus different this month?,payroll_query,en,noisy,payroll_query,0.999,TRUE
+144,145,can i take 3 days of maternity leav next week,leave_management,en,noisy,leave_management,0.99,TRUE
+145,146,HRA abhi tak nahi mila,payroll_query,hinglish,standard,payroll_query,0.843,TRUE
+146,147,HR se employment letter milega kia? Rent agreement ke liye chahie,service_request,hinglish,noisy,service_request,0.999,TRUE
+147,148,Can you explain the company rules on sabbatical?,policy_query,en,unseen_policy,policy_query,0.538,TRUE
+148,149,I need an address proof letter for a passport application,service_request,en,standard,service_request,0.93,TRUE
+149,150,Mobile bill ke rules kya hai company mein?,policy_query,hinglish,unseen_policy,policy_query,0.899,TRUE
+150,151,Who is organising the annual day?,other,en,standard,other,0.989,TRUE
+151,152,Where can I read the anti-harassment (POSH) policy document?,policy_query,en,unseen_policy,policy_query,0.996,TRUE
+152,153,HR portal mein login nahi ho raha,service_request,hinglish,boundary,service_request,0.974,TRUE
+153,154,Can you explain the PF deduction in my payslip?,payroll_query,en,standard,payroll_query,1,TRUE
+154,155,"Monitor garam ho raha hai, IT ticket raise karo",service_request,hinglish,standard,service_request,0.929,TRUE
+155,156,Probation ki guidelines share kro pls,policy_query,hinglish,unseen_policy,policy_query,0.977,TRUE
+156,157,"Keyboard charge nahi ho raha, IT ticket raise karo",service_request,hinglish,standard,service_request,0.991,TRUE
+157,158,Yoga session kaun organise kar raha hai,other,hinglish,noisy,other,0.952,TRUE
+158,159,HR se experience letter milega kya? Passport ke liye chahiye,service_request,hinglish,standard,service_request,1,TRUE
+159,160,Is mahine hackathon hai kya?,other,hinglish,standard,other,0.914,TRUE
+160,161,Employee profile mein mera Aadhaar theek karo,employee_profile,hinglish,standard,employee_profile,0.979,TRUE
+161,162,hr records mein pan number kese change karu,employee_profile,hinglish,noisy,employee_profile,0.96,TRUE
+162,163,"Bank change kiya, records update karne hai",employee_profile,hinglish,standard,employee_profile,0.997,TRUE
+163,164,How do I change my name spelling in HR records?,employee_profile,en,standard,employee_profile,0.996,TRUE
+164,165,"My mouse is not starting, please raise a ticket",service_request,en,standard,service_request,0.993,TRUE
+165,166,Social media policy is saal change hui kya?,policy_query,hinglish,unseen_policy,policy_query,0.994,TRUE
+166,167,Travel policy mein hotel ka limit kitna hai?,policy_query,hinglish,boundary,policy_query,0.999,TRUE
+167,168,What does our policy say about code of conduct?,policy_query,en,standard,policy_query,1,TRUE
+168,169,Is Thursday ke liye cab book karo,service_request,hinglish,standard,other,0.784,FALSE
+169,170,How is professional tax calculated in my salary?,payroll_query,en,standard,payroll_query,0.998,TRUE
+170,171,The arrears looks wrong in my August payslip,payroll_query,en,standard,payroll_query,1,TRUE
+171,172,My paternity leave request is still pending approval,leave_management,en,standard,leave_management,0.998,TRUE
+172,173,town hall kaun organise kar raha h?,other,hinglish,noisy,other,0.879,TRUE
+173,174,Cricket tournament kab hai?,other,hinglish,standard,other,0.971,TRUE
+174,175,Employee profile mein mera qualification theek kro,employee_profile,hinglish,noisy,employee_profile,0.976,TRUE
+175,176,October ka payslip chahiye,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+176,177,happy diwali everyone,other,en,noisy,other,0.998,TRUE
+177,178,Where do I submit 80C investment proofs for tax saving?,payroll_query,en,standard,payroll_query,0.953,TRUE
+178,179,HR portal pe mobile number update karna hai,employee_profile,hinglish,boundary,employee_profile,0.996,TRUE
+179,180,When is the blood donation camp?,other,en,standard,other,0.968,TRUE
+180,181,Please cancel my earned leave for Friday,leave_management,en,standard,leave_management,1,TRUE
+181,182,Change the bank account where my salary is credited,employee_profile,en,boundary,employee_profile,0.623,TRUE
+182,183,Portal pe naam ki spelling kahan edit hota hai?,employee_profile,hinglish,standard,employee_profile,0.99,TRUE
+183,184,My bereavement leave request is still pending approval,leave_management,en,standard,leave_management,0.997,TRUE
+184,185,Portal pe date of birth kahan edit hota hai?,employee_profile,hinglish,standard,employee_profile,0.982,TRUE
+185,186,What does our policy say about probation?,policy_query,en,unseen_policy,policy_query,0.997,TRUE
+186,187,Parso ki SL apply karni h,leave_management,hinglish,noisy,leave_management,0.939,TRUE
+187,188,Leave balance galat dikh raha hai,leave_management,hinglish,boundary,leave_management,0.999,TRUE
+188,189,does company policy allow me to work from office only 3 days a week,policy_query,en,unseen_policy,policy_query,0.995,TRUE
+189,190,I need my payslip for June,payroll_query,en,standard,payroll_query,1,TRUE
+190,191,Can you explain the company rules on notice period?,policy_query,en,standard,policy_query,1,TRUE
+191,192,HR records mein salary bank account kaise change karu?,employee_profile,hinglish,standard,employee_profile,0.981,TRUE
+192,193,"Monitor baar baar hang ho raha hai, IT ticket raise karo",service_request,hinglish,standard,service_request,0.987,TRUE
+193,194,kia office laptop bahar le jaana allowed h? policy kia kehti h,policy_query,hinglish,unseen_policy,policy_query,0.789,TRUE
+194,195,"My keyboard is freezing every few minutes, please raise a ticket",service_request,en,standard,service_request,0.996,TRUE
+195,196,Jira is not working since morning,service_request,en,standard,service_request,0.975,TRUE
+196,197,HR se address proof letter milega kya? Rent agreement ke liye chahiye,service_request,hinglish,standard,service_request,0.976,TRUE
+197,198,Durga Puja pe chutti hai kya?,leave_management,hinglish,standard,leave_management,0.942,TRUE
+198,199,I need my payslip for November,payroll_query,en,standard,payroll_query,1,TRUE
+199,200,Has the notice period policy changed this year?,policy_query,en,standard,policy_query,1,TRUE
+200,201,I want to update my Aadhaar details,employee_profile,en,standard,employee_profile,0.946,TRUE
+201,202,What is the mobile bill reimbursement policy?,policy_query,en,unseen_policy,policy_query,0.997,TRUE
+202,203,Office mein parking kahan hai?,other,hinglish,standard,other,0.455,TRUE
+203,204,Confluence ka access chahiye,service_request,hinglish,standard,service_request,0.997,TRUE
+204,205,Please cancel my casual leave for the 15th,leave_management,en,standard,leave_management,1,TRUE
+205,206,"Variable pay galat cut hua hai, check karo",payroll_query,hinglish,standard,payroll_query,0.997,TRUE
+206,207,Please add my father as my insurance nominee,employee_profile,en,standard,employee_profile,0.998,TRUE
+207,208,"I got married, how do I update my records?",employee_profile,en,standard,employee_profile,0.999,TRUE
+208,209,Office mein pantry kahan hai?,other,hinglish,standard,other,0.986,TRUE
+209,210,Form 16 kahan se download karu?,payroll_query,hinglish,standard,payroll_query,0.99,TRUE
+210,211,Portal pe address kahan edit hota hai?,employee_profile,hinglish,standard,employee_profile,0.994,TRUE
+211,212,HR se employment letter milega kya? Visa ke liye chahiye,service_request,hinglish,standard,service_request,0.999,TRUE
+212,213,Is there a holiday on Pongal in the Hyderabad office?,leave_management,en,standard,leave_management,0.964,TRUE
+213,214,Who should I contact about the gift acceptance policy?,policy_query,en,unseen_policy,policy_query,0.993,TRUE
+214,215,"Mera access card kho gaya, naya kaise milega?",service_request,hinglish,standard,service_request,0.998,TRUE
+215,216,Can HR issue an address proof letter? It's for a home loan,service_request,en,standard,service_request,0.978,TRUE
+216,217,Kya raat 9 ke baad cab claim karna allowed hai? Policy kya kehti hai?,policy_query,hinglish,unseen_policy,policy_query,0.996,TRUE
+217,218,travel claim ke baare mein policy batao,policy_query,hinglish,noisy,policy_query,0.999,TRUE
+218,219,Please cancel my paternity leave for the 15th,leave_management,en,standard,leave_management,1,TRUE
+219,220,Mere kitne paternity leave bache hai?,leave_management,hinglish,standard,leave_management,0.973,TRUE
+220,221,The variable pay looks wrong in my August payslip,payroll_query,en,standard,payroll_query,0.999,TRUE
+221,222,Sabbatical ki guidelines share karo please,policy_query,hinglish,unseen_policy,policy_query,0.549,TRUE
+222,223,August ki salary kab aayegi?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+223,224,Yoga session mein family la sakte hai kya?,other,hinglish,standard,policy_query,0.811,FALSE
+224,225,Kya jeans pehen ke office aana allowed hai? Policy kya kehti hai?,policy_query,hinglish,unseen_policy,policy_query,0.999,TRUE
+225,226,Is Durga Puja a holiday this year?,leave_management,en,standard,leave_management,0.955,TRUE
+226,227,Is there a team outing this weekend?,other,en,standard,other,0.978,TRUE
+227,228,Thank you for the help,other,en,standard,other,0.988,TRUE
+228,229,Earned leave portal pe kaise apply karu?,leave_management,hinglish,standard,leave_management,0.997,TRUE
+229,230,Mere kitne chutti bache hai?,leave_management,hinglish,standard,leave_management,0.996,TRUE
+230,231,Is there a blood donation camp this week?,other,en,standard,other,0.976,TRUE
+231,232,How do I download my Form 12BB?,payroll_query,en,standard,payroll_query,0.827,TRUE
+232,233,Why is my incentive different this month?,payroll_query,en,standard,payroll_query,0.992,TRUE
+233,234,Where is the cafeteria in the office?,other,en,standard,other,0.998,TRUE
+234,235,Confluence is not working since morning,service_request,en,standard,service_request,0.976,TRUE
+235,236,Can you explain the company rules on dress code?,policy_query,en,standard,policy_query,1,TRUE
+236,237,"My docking station is freezing every few minutes, pls raise a ticket",service_request,en,noisy,service_request,0.991,TRUE
+237,238,Who should I contact about the dress code policy?,policy_query,en,standard,policy_query,0.999,TRUE
+238,239,"Keyboard baar baar hang ho raha hai, IT ticket raise karo",service_request,hinglish,standard,service_request,0.996,TRUE
+239,240,"Thanks, that solved it",other,en,standard,other,0.98,TRUE
+240,241,Hackathon kaun organise kar raha hai?,other,hinglish,standard,other,0.98,TRUE
+241,242,I haven't received my PF deduction yet,payroll_query,en,standard,payroll_query,0.999,TRUE
+242,243,kya hybrid office ke liye koi policy hai?,policy_query,hinglish,unseen_policy,policy_query,0.996,TRUE
+243,244,can i take 5 days of casual leav next week,leave_management,en,noisy,leave_management,0.996,TRUE
+244,245,What's on the canteen menu tomorrow?,other,en,standard,other,1,TRUE
+245,246,can i bring my family to the team outing,other,en,noisy,policy_query,0.585,FALSE
+246,247,CL portal pe kaise apply karu?,leave_management,hinglish,standard,leave_management,0.857,TRUE
+247,248,When will my salry for November be credited,payroll_query,en,noisy,payroll_query,0.999,TRUE
+248,249,how to download my Form 16,payroll_query,en,noisy,payroll_query,0.987,TRUE
+249,250,Is weekend annual day hai kya?,other,hinglish,standard,leave_management,0.729,FALSE
+250,251,can i carry forward my unused paternity leave?,leave_management,en,noisy,leave_management,0.955,TRUE
+251,252,HR records mein qualification kaise change karu?,employee_profile,hinglish,standard,employee_profile,0.891,TRUE
+252,253,How is TDS calculated in my salary?,payroll_query,en,standard,payroll_query,1,TRUE
+253,254,Mere papa ko PF nominee add karna hai,employee_profile,hinglish,standard,employee_profile,0.99,TRUE
+254,255,Why was extra net salary deducted this month?,payroll_query,en,standard,payroll_query,0.999,TRUE
+255,256,Cricket tournament kaun organise kar raha hai?,other,hinglish,standard,other,0.973,TRUE
+256,257,Dress code ke baare mein policy batao,policy_query,hinglish,standard,policy_query,1,TRUE
+257,258,When will my salary for October be credited?,payroll_query,en,standard,payroll_query,1,TRUE
+258,259,can u explain the company rules on relocation,policy_query,en,unseen_policy,policy_query,0.994,TRUE
+259,260,Who should I contact about the internet reimbursement policy?,policy_query,en,unseen_policy,policy_query,0.987,TRUE
+260,261,Finance drive subah se kaam nahi kar raha,service_request,hinglish,standard,leave_management,0.472,FALSE
+261,262,"Naya headset chahiye, kaise request karu?",service_request,hinglish,standard,service_request,0.972,TRUE
+262,263,need my payslip for august,payroll_query,en,noisy,payroll_query,1,TRUE
+263,264,i want to apply for sick leav on next tuesday,leave_management,en,noisy,leave_management,0.999,TRUE
+264,265,Portal pe qualification kahan edit hota hai?,employee_profile,hinglish,standard,employee_profile,0.91,TRUE
+265,266,"Accha, bye",other,hinglish,standard,other,0.988,TRUE
+266,267,Please cancel my marriage leave for the 15th,leave_management,en,standard,leave_management,0.999,TRUE
+267,268,Does company policy allow me to come to office in jeans?,policy_query,en,unseen_policy,policy_query,1,TRUE
+268,269,What does our policy say about internal transfer?,policy_query,en,unseen_policy,policy_query,0.99,TRUE
+269,270,What's on the canteen menu today?,other,en,standard,other,1,TRUE
+270,271,Can I bring my family to the blood donation camp?,other,en,standard,other,0.447,TRUE
+271,272,The TDS looks wrong in my September payslip,payroll_query,en,standard,payroll_query,1,TRUE
+272,273,November ka payslip chahiye,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+273,274,kia notice period ke liye koi policy h,policy_query,hinglish,noisy,policy_query,0.999,TRUE
+274,275,Sabbatical ki guidelines share kro please,policy_query,hinglish,unseen_policy,policy_query,0.58,TRUE
+275,276,Where do I submit home loan interest certificate for tax saving?,payroll_query,en,standard,payroll_query,0.941,TRUE
+276,277,pls share the latest bring your own device guidelines,policy_query,en,unseen_policy,policy_query,0.775,TRUE
+277,278,how many paternity leav days do i have left,leave_management,en,noisy,leave_management,0.996,TRUE
+278,279,Mera PF balance kitna hai?,payroll_query,hinglish,boundary,payroll_query,0.997,TRUE
+279,280,Annual day kaun organise kar raha hai?,other,hinglish,standard,other,0.962,TRUE
+280,281,Overtime ka paisa abhi tak nahi mila,payroll_query,hinglish,standard,payroll_query,0.988,TRUE
+281,282,Diwali ki chutti kitne din ki hai?,leave_management,hinglish,standard,leave_management,0.954,TRUE
+282,283,"My headset is not starting, please raise a ticket",service_request,en,standard,service_request,0.988,TRUE
+283,284,Can I carry forward my unused casual leave?,leave_management,en,standard,leave_management,0.961,TRUE
+284,285,is weekend annual day h kia,other,hinglish,noisy,leave_management,0.537,FALSE
+285,286,I want to update my blood group,employee_profile,en,standard,employee_profile,0.981,TRUE
+286,287,What is the policy on accepting Diwali gifts from vendors?,policy_query,en,boundary,policy_query,0.98,TRUE
+287,288,Please book the conference hall for this Thursday,service_request,en,standard,other,0.821,FALSE
+288,289,Where can I read the conflict of interest policy document?,policy_query,en,unseen_policy,policy_query,0.998,TRUE
+289,290,Diwali party kaun organise kar raha hai?,other,hinglish,standard,other,0.974,TRUE
+290,291,How is take-home pay calculated in my salary?,payroll_query,en,standard,payroll_query,0.999,TRUE
+291,292,Mobile bill ka policy kya hai?,policy_query,hinglish,unseen_policy,policy_query,0.916,TRUE
+292,293,Please add my wife as my PF nominee,employee_profile,en,standard,employee_profile,0.992,TRUE
+293,294,Team outing mein family la sakte hai kya?,other,hinglish,standard,policy_query,0.89,FALSE
+294,295,"My manager rejected my comp off, what can I do?",leave_management,en,standard,leave_management,0.946,TRUE
+295,296,Employee profile mein mera emergency contact theek karo,employee_profile,hinglish,standard,employee_profile,1,TRUE
+296,297,Comp off portal pe kaise apply karu?,leave_management,hinglish,standard,leave_management,0.976,TRUE
+297,298,Kya internet bill reimbursement ke liye koi policy hai?,policy_query,hinglish,unseen_policy,policy_query,0.995,TRUE
+298,299,Code of conduct ke rules kya hai company mein?,policy_query,hinglish,standard,policy_query,1,TRUE
+299,300,Is weekend Diwali party hai kya?,other,hinglish,standard,other,0.815,TRUE
+300,301,is weekend yoga session h kia,other,hinglish,noisy,other,0.743,TRUE
+301,302,Where can I edit my bank account for salary on the portal?,employee_profile,en,standard,employee_profile,0.971,TRUE
+302,303,"Mera parking pass kho gaya, naya kaise milega?",service_request,hinglish,standard,service_request,0.927,TRUE
+303,304,Am I allowed to carry my office laptop abroad as per company rules?,policy_query,en,unseen_policy,policy_query,0.834,TRUE
+304,305,How do I change my residential address in HR records?,employee_profile,en,standard,employee_profile,0.998,TRUE
+305,306,March ki salary abhi tak credit nahi hui,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+306,307,Is there a annual day this month?,other,en,standard,other,0.635,TRUE
+307,308,how to change my personal email in hr records,employee_profile,en,noisy,employee_profile,0.985,TRUE
+308,309,why is my tds different this month,payroll_query,en,noisy,payroll_query,0.999,TRUE
+309,310,Incentive mein deduction samajh nahi aaya,payroll_query,hinglish,standard,payroll_query,0.993,TRUE
+310,311,How do I apply for bereavement leave?,leave_management,en,standard,leave_management,0.929,TRUE
+311,312,Can I take 5 days of casual leave next week?,leave_management,en,standard,leave_management,0.999,TRUE
+312,313,Who is organising the blood donation camp?,other,en,standard,other,0.964,TRUE
+313,314,how to change my aadhaar details in hr records,employee_profile,en,noisy,employee_profile,0.967,TRUE
+314,315,What is the notice period if I resign?,policy_query,en,boundary,policy_query,0.999,TRUE
+315,316,Notice period buyout ka rule kya hai?,policy_query,hinglish,boundary,policy_query,0.997,TRUE
+316,317,Travel reimbursement abhi tak credit nahi hua,payroll_query,hinglish,boundary,policy_query,0.728,FALSE
+317,318,diwali party kab h,other,hinglish,noisy,other,0.785,TRUE
+318,319,I need a new laptop,service_request,en,standard,service_request,0.999,TRUE
+319,320,"March salary is not credited yet, please check",payroll_query,en,standard,payroll_query,0.999,TRUE
+320,321,Is there a yoga session this month?,other,en,standard,other,0.983,TRUE
+321,322,meri mummy ko insurance nominee add krna h,employee_profile,hinglish,noisy,employee_profile,0.998,TRUE
+322,323,When will my salary for May be credited?,payroll_query,en,standard,payroll_query,1,TRUE
+323,324,My Aadhaar details is wrong in the system,employee_profile,en,standard,employee_profile,0.968,TRUE
+324,325,I need an experience letter for my credit card application,service_request,en,standard,service_request,1,TRUE
+325,326,When is the hackathon?,other,en,standard,other,0.993,TRUE
+326,327,Please correct my blood group in my employee profile,employee_profile,en,standard,employee_profile,0.996,TRUE
+327,328,The incentive looks wrong in my March payslip,payroll_query,en,standard,payroll_query,0.999,TRUE
+328,329,WFH policy is saal change hui kya?,policy_query,hinglish,standard,policy_query,0.999,TRUE
+329,330,Email ka password reset karna hai,service_request,hinglish,standard,service_request,0.984,TRUE
+330,331,Team transfer policy is saal change hui kya?,policy_query,hinglish,unseen_policy,policy_query,0.993,TRUE
+331,332,What does our policy say about work from home?,policy_query,en,standard,policy_query,1,TRUE
+332,333,Is there a hackathon this month?,other,en,standard,other,0.997,TRUE
+333,334,Am I allowed to claim a cab ride after 9 pm as per company rules?,policy_query,en,unseen_policy,policy_query,0.998,TRUE
+334,335,Is mahine blood donation camp hai kya?,other,hinglish,standard,other,0.933,TRUE
+335,336,please book a meeting room for tomorrow,service_request,en,noisy,other,0.752,FALSE
+336,337,"Naya mouse chahiye, kaise request karu?",service_request,hinglish,standard,service_request,0.984,TRUE
+337,338,Please cancel my paternity leave for next Wednesday,leave_management,en,standard,leave_management,1,TRUE
+338,339,April ka payslip chahiye,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+339,340,My highest qualification is wrong in the system,employee_profile,en,standard,employee_profile,0.871,TRUE
+340,341,"My manager rejected my sick leave, what can I do?",leave_management,en,standard,leave_management,0.964,TRUE
+341,342,need an experience letter for my credit card application,service_request,en,noisy,service_request,1,TRUE
+342,343,Shift allowance was not paid this month,payroll_query,en,boundary,payroll_query,0.994,TRUE
+343,344,How do I change my emergency contact in HR records?,employee_profile,en,standard,employee_profile,0.999,TRUE
+344,345,Yoga session kab hai?,other,hinglish,standard,other,0.873,TRUE
+345,346,How do I change my bank account for salary in HR records?,employee_profile,en,standard,employee_profile,0.971,TRUE
+346,347,Salary wala bank account change karna hai,employee_profile,hinglish,boundary,employee_profile,0.926,TRUE
+347,348,Work from home ki guidelines share karo please,policy_query,hinglish,standard,policy_query,0.999,TRUE
+348,349,Shukriya,other,hinglish,standard,other,0.994,TRUE
+349,350,What does our policy say about notice period?,policy_query,en,standard,policy_query,1,TRUE
+350,351,Meri mummy ko PF nominee add karna hai,employee_profile,hinglish,standard,employee_profile,0.991,TRUE
+351,352,Meri wife ko medical insurance dependant add karna hai,employee_profile,hinglish,standard,employee_profile,0.959,TRUE
+352,353,"Vendor se Diwali gift le sakte hai kya, policy kya hai?",policy_query,hinglish,boundary,policy_query,0.969,TRUE
+353,354,How do I download my payslip,payroll_query,en,noisy,payroll_query,0.998,TRUE
+354,355,Where is the reception in the office?,other,en,standard,other,0.882,TRUE
+355,356,Is there any policy on anti-harassment (POSH)?,policy_query,en,unseen_policy,policy_query,0.997,TRUE
+356,357,When is the Diwali holiday this year?,leave_management,en,boundary,leave_management,0.802,TRUE
+357,358,"Mera ID card kho gaya, naya kaise milega?",service_request,hinglish,standard,service_request,0.999,TRUE
+358,359,durga puja ki chutti kitne din ki h,leave_management,hinglish,noisy,leave_management,0.922,TRUE
+359,360,need a new headset,service_request,en,noisy,service_request,0.967,TRUE
+360,361,Blood donation camp kaun organise kar raha h,other,hinglish,noisy,other,0.927,TRUE
+361,362,Kya health insurance ke liye koi policy hai?,policy_query,hinglish,unseen_policy,policy_query,0.965,TRUE
+362,363,15 tarikh half day le sakta hu kya?,leave_management,hinglish,standard,leave_management,0.969,TRUE
+363,364,Shift allowance ka policy kia h,policy_query,hinglish,unseen_policy,policy_query,0.82,TRUE
+364,365,Why was extra bonus deducted this month?,payroll_query,en,standard,payroll_query,0.999,TRUE
+365,366,I need an employment verification letter for my credit card application,service_request,en,standard,service_request,0.998,TRUE
+366,367,cricket tournament mein family la sakte hai kia,other,hinglish,noisy,policy_query,0.699,FALSE
+367,368,my emergency contact is wrong in the system,employee_profile,en,noisy,employee_profile,1,TRUE
+368,369,Where is the parking in the office?,other,en,standard,other,0.584,TRUE
+369,370,Does company policy allow me to post about my work on LinkedIn?,policy_query,en,unseen_policy,policy_query,0.993,TRUE
+370,371,Mera Aadhaar update karna hai,employee_profile,hinglish,standard,employee_profile,0.929,TRUE
+371,372,My leave balance is showing wrong in the payslip,leave_management,en,boundary,leave_management,0.656,TRUE
+372,373,Please book a desk in the Bangalore office for Monday,service_request,en,standard,other,0.474,FALSE
+373,374,how to apply for comp off,leave_management,en,noisy,leave_management,0.958,TRUE
+374,375,System mein mera emergency contact galat hai,employee_profile,hinglish,standard,employee_profile,0.998,TRUE
+375,376,Parso ke liye cab book karo,service_request,hinglish,standard,other,0.438,FALSE
+376,377,is weekend hackathon h kia?,other,hinglish,noisy,other,0.895,TRUE
+377,378,VPN ka access chahiye,service_request,hinglish,standard,service_request,0.999,TRUE
+378,379,Please give me access to the shared finance drive,service_request,en,standard,service_request,0.996,TRUE
+379,380,Who approves my paternity leave?,leave_management,en,standard,leave_management,0.861,TRUE
+380,381,I want to update my date of birth,employee_profile,en,standard,employee_profile,0.992,TRUE
+381,382,The net salary looks wrong in my February payslip,payroll_query,en,standard,payroll_query,0.999,TRUE
+382,383,Is there a blood donation camp this weekend,other,en,noisy,other,0.973,TRUE
+383,384,Kal ki sick leave laga do,leave_management,hinglish,boundary,leave_management,0.998,TRUE
+384,385,Mere kitne casual leave bache hai?,leave_management,hinglish,standard,leave_management,0.999,TRUE
+385,386,how to change my phone number in hr records,employee_profile,en,noisy,employee_profile,0.998,TRUE
+386,387,github ka access chahie,service_request,hinglish,noisy,service_request,0.996,TRUE
+387,388,What time does the first aid room open?,other,en,standard,other,0.761,TRUE
+388,389,Credit card ke liye address proof letter chahiye,service_request,hinglish,standard,service_request,0.928,TRUE
+389,390,Why is my PF deduction different this month?,payroll_query,en,standard,payroll_query,0.999,TRUE
+390,391,employee profile mein mera blood group theek kro,employee_profile,hinglish,noisy,employee_profile,0.996,TRUE
+391,392,Is Thursday half day le sakta hu kya?,leave_management,hinglish,standard,leave_management,0.908,TRUE
+392,393,Is mahine team outing h kya,other,hinglish,noisy,other,0.692,TRUE
+393,394,Is hafte yoga session hai kya?,other,hinglish,standard,other,0.403,TRUE
+394,395,Is mahine town hall hai kya?,other,hinglish,standard,other,0.55,TRUE
+395,396,How many marriage leave days do I have left?,leave_management,en,standard,leave_management,0.993,TRUE
+396,397,May ki salary abhi tak credit nahi hui,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+397,398,Update my phone number on the HR portal,employee_profile,en,boundary,employee_profile,0.999,TRUE
+398,399,Is there a yoga session this week?,other,en,standard,other,0.985,TRUE
+399,400,Who is organising the hackathon?,other,en,standard,other,0.993,TRUE
+400,401,Shift allowance ki guidelines share kro please,policy_query,hinglish,unseen_policy,policy_query,0.768,TRUE
+401,402,Can I carry forward my unused sick leav,leave_management,en,noisy,leave_management,0.958,TRUE
+402,403,How do I apply for maternity leave?,leave_management,en,standard,leave_management,0.935,TRUE
+403,404,Good evening,other,en,standard,other,0.999,TRUE
+404,405,what does our policy say about overtime,policy_query,en,unseen_policy,policy_query,0.984,TRUE
+405,406,Diwali party kaun organise kar raha h,other,hinglish,noisy,other,0.974,TRUE
+406,407,Where can I edit my Aadhaar details on the portal?,employee_profile,en,standard,employee_profile,0.918,TRUE
+407,408,Is there a holiday on Diwali in the Hyderabad office?,leave_management,en,standard,leave_management,0.954,TRUE
+408,409,System mein mera salary bank account galat hai,employee_profile,hinglish,standard,employee_profile,0.827,TRUE
+409,410,Portal pe Aadhaar kahan edit hota hai?,employee_profile,hinglish,standard,employee_profile,0.949,TRUE
+410,411,Can you explain the company rules on mobile bill reimbursement?,policy_query,en,unseen_policy,policy_query,0.998,TRUE
+411,412,I want to update my personal email,employee_profile,en,standard,employee_profile,0.975,TRUE
+412,413,HR records mein Aadhaar kaise change karu?,employee_profile,hinglish,standard,employee_profile,0.958,TRUE
+413,414,pls share the latest gift acceptance guidelines,policy_query,en,unseen_policy,policy_query,0.968,TRUE
+414,415,My bank account for salary is wrong in the system,employee_profile,en,standard,employee_profile,0.954,TRUE
+415,416,Can I bring my family to the hackathon?,other,en,standard,other,0.622,TRUE
+416,417,What time does the cafeteria open?,other,en,standard,other,0.996,TRUE
+417,418,Paternity leave carry forward hoga kya?,leave_management,hinglish,standard,leave_management,0.933,TRUE
+418,419,I need my payslip for May,payroll_query,en,standard,payroll_query,1,TRUE
+419,420,First aid room kitne baje khulta hai?,other,hinglish,standard,other,0.699,TRUE
+420,421,November ki salary kab aayegi?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+421,422,can u explain the company rules on shift allowance,policy_query,en,unseen_policy,policy_query,0.865,TRUE
+422,423,Where do I submit LIC premium receipts for tax saving?,payroll_query,en,standard,payroll_query,0.865,TRUE
+423,424,VPN ka password reset karna hai,service_request,hinglish,standard,service_request,0.999,TRUE
+424,425,Can I carry forward my unused comp off?,leave_management,en,noisy,leave_management,0.892,TRUE
+425,426,Thank you bhai,other,hinglish,standard,other,0.997,TRUE
+426,427,Mera blood group update karna hai,employee_profile,hinglish,standard,employee_profile,0.99,TRUE
+427,428,Relocation ka policy kya hai?,policy_query,hinglish,unseen_policy,policy_query,0.99,TRUE
+428,429,Does company policy allow me to do freelance work on weekends?,policy_query,en,unseen_policy,policy_query,0.993,TRUE
+429,430,Is there a Diwali party this weekend?,other,en,standard,other,0.97,TRUE
+430,431,Payslip mein HRA zyada kyun kata?,payroll_query,hinglish,standard,payroll_query,0.997,TRUE
+431,432,Can I take 3 days of maternity leave next week?,leave_management,en,standard,leave_management,0.995,TRUE
+432,433,Mera qualification update karna hai,employee_profile,hinglish,standard,employee_profile,0.876,TRUE
+433,434,Why is my PF deduction higher this month?,payroll_query,en,boundary,payroll_query,0.999,TRUE
+434,435,mera aadhaar update krna h,employee_profile,hinglish,noisy,employee_profile,0.923,TRUE
+435,436,Please correct my emergency contact in my employee profile,employee_profile,en,standard,employee_profile,1,TRUE
+436,437,June ki salary abhi tak credit nahi hui,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+437,438,Mere kitne comp off bache hai?,leave_management,hinglish,standard,leave_management,0.993,TRUE
+438,439,onam ki chutti kitne din ki hai?,leave_management,hinglish,noisy,leave_management,0.941,TRUE
+439,440,I want to update my residential address,employee_profile,en,standard,employee_profile,0.999,TRUE
+440,441,My travel reimbursement is not credited yet,payroll_query,en,boundary,policy_query,0.77,FALSE
+441,442,"My monitor is not charging, please raise a ticket",service_request,en,standard,service_request,0.989,TRUE
+442,443,Please book a desk in the Bangalore office for the 15th,service_request,en,standard,leave_management,0.65,FALSE
+443,444,What is the probation policy?,policy_query,en,unseen_policy,policy_query,0.997,TRUE
+444,445,confluence subah se kaam nhi kar raha,service_request,hinglish,noisy,service_request,0.947,TRUE
+445,446,TDS kaise calculate hota hai?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+446,447,Hello,other,en,standard,other,0.996,TRUE
+447,448,Happy Diwali sabko,other,hinglish,standard,other,0.997,TRUE
+448,449,LIC receipt tax ke liye kahan submit karna hai?,payroll_query,hinglish,standard,payroll_query,0.914,TRUE
+449,450,System mein mera qualification galat hai,employee_profile,hinglish,standard,employee_profile,0.858,TRUE
+450,451,Please correct my bank account for salary in my employee profile,employee_profile,en,standard,employee_profile,0.989,TRUE
+451,452,"I lost my access card, how do I get a new one?",service_request,en,standard,service_request,0.998,TRUE
+452,453,meri paternity leave abhi tak approve nhi hui,leave_management,hinglish,noisy,leave_management,0.995,TRUE
+453,454,"Manager ne casual leave reject kar di, ab kya karu?",leave_management,hinglish,standard,leave_management,0.986,TRUE
+454,455,Shift allowance kaise calculate hota hai?,payroll_query,hinglish,standard,payroll_query,0.886,TRUE
+455,456,outlook ka password reset krna h,service_request,hinglish,noisy,service_request,0.983,TRUE
+456,457,Kya haal hai?,other,hinglish,standard,other,0.996,TRUE
+457,458,How do I apply for comp off?,leave_management,en,standard,leave_management,0.949,TRUE
+458,459,Blood donation camp kaun organise kar raha hai?,other,hinglish,standard,other,0.939,TRUE
+459,460,Please add my mother as my insurance nominee,employee_profile,en,standard,employee_profile,0.998,TRUE
+460,461,mera mobile number update krna h,employee_profile,hinglish,noisy,employee_profile,0.998,TRUE
+461,462,Comp off carry forward hoga kya?,leave_management,hinglish,standard,leave_management,0.853,TRUE
+462,463,Ugadi pe chutti hai kya?,leave_management,hinglish,standard,leave_management,0.944,TRUE
+463,464,can u explain the company rules on sabbatical,policy_query,en,unseen_policy,policy_query,0.551,TRUE
+464,465,Vendor gift policy is saal change hui kia,policy_query,hinglish,unseen_policy,policy_query,0.98,TRUE
+465,466,"June salary is not credited yet, please check",payroll_query,en,standard,payroll_query,0.999,TRUE
+466,467,Next week 5 din ki paternity leave chahiye,leave_management,hinglish,standard,leave_management,0.999,TRUE
+467,468,Mere kitne earned leave bache hai?,leave_management,hinglish,standard,leave_management,0.999,TRUE
+468,469,my phone number is wrong in the system,employee_profile,en,noisy,employee_profile,0.998,TRUE
+469,470,Is Ugadi a holiday this year?,leave_management,en,standard,leave_management,0.959,TRUE
+470,471,Can I carry forward my unused paternity leav,leave_management,en,noisy,leave_management,0.948,TRUE
+471,472,Is there a annual day this week?,other,en,standard,other,0.531,TRUE
+472,473,Home loan ke liye employment letter chahiye,service_request,hinglish,standard,service_request,0.997,TRUE
+473,474,Mobile bill ke baare mein policy batao,policy_query,hinglish,unseen_policy,policy_query,0.879,TRUE
+474,475,Travel claim policy ka document kahan milega?,policy_query,hinglish,standard,policy_query,0.996,TRUE
+475,476,when is the town hall?,other,en,noisy,other,0.886,TRUE
+476,477,Dhanyavaad,other,hinglish,standard,other,0.995,TRUE
+477,478,Vendor gift policy is saal change hui kya?,policy_query,hinglish,unseen_policy,policy_query,0.983,TRUE
+478,479,Please book a meeting room for next Wednesday,service_request,en,standard,other,0.795,FALSE
+479,480,Kya vendor se gift lena allowed hai? Policy kya kehti hai?,policy_query,hinglish,unseen_policy,policy_query,0.996,TRUE
+480,481,Mera salary bank account update karna hai,employee_profile,hinglish,standard,employee_profile,0.953,TRUE
+481,482,"Manager ne paternity leave reject kar di, ab kya karu?",leave_management,hinglish,standard,leave_management,0.961,TRUE
+482,483,Why was extra professional tax deducted this month?,payroll_query,en,standard,payroll_query,0.999,TRUE
+483,484,Home loan certificate tax ke liye kahan submit karna hai?,payroll_query,hinglish,standard,payroll_query,0.931,TRUE
+484,485,"I lost my parking pass, how do I get a new one?",service_request,en,standard,service_request,0.912,TRUE
+485,486,Can I bring my family to the yoga session?,other,en,standard,policy_query,0.547,FALSE
+486,487,I need an address proof letter for my credit card application,service_request,en,standard,service_request,0.947,TRUE
+487,488,What is the shift allowance policy?,policy_query,en,boundary,policy_query,0.87,TRUE
+488,489,Please book the conference hall for next Tuesday,service_request,en,standard,other,0.842,FALSE
+489,490,Is mahine shift allowance nahi aaya,payroll_query,hinglish,boundary,payroll_query,0.976,TRUE
+490,491,pls book the conference hall for this Thursday,service_request,en,noisy,other,0.783,FALSE
+491,492,January ki salary abhi tak credit nahi hui,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+492,493,Who approves my casual leave?,leave_management,en,standard,leave_management,0.944,TRUE
+493,494,I want to apply for casual leave on Monday,leave_management,en,standard,leave_management,1,TRUE
+494,495,portal pe blood group kahan edit hota hai,employee_profile,hinglish,noisy,employee_profile,0.983,TRUE
+495,496,Please book a desk in the Bangalore office for Friday,service_request,en,standard,other,0.447,FALSE
+496,497,Company rules ke hisaab se dusre city se 2 hafte kaam karna allowed hai kya?,policy_query,hinglish,unseen_policy,policy_query,0.961,TRUE
+497,498,My earned leave request is still pending approval,leave_management,en,standard,leave_management,0.999,TRUE
+498,499,i haven't received my shift allowance yet,payroll_query,en,noisy,payroll_query,0.983,TRUE
+499,500,october ki salary kab aayegi,payroll_query,hinglish,noisy,payroll_query,0.998,TRUE
+500,501,Variable pay abhi tak nahi mila,payroll_query,hinglish,noisy,payroll_query,0.992,TRUE
+501,502,Parso ki casual leave apply karni hai,leave_management,hinglish,standard,leave_management,0.997,TRUE
+502,503,Home loan ke liye NOC chahiye,service_request,hinglish,standard,service_request,0.977,TRUE
+503,504,Why is my variable pay different this month?,payroll_query,en,standard,payroll_query,0.997,TRUE
+504,505,What does our policy say about conflict of interest?,policy_query,en,unseen_policy,policy_query,0.999,TRUE
+505,506,January ka payslip chahiye,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+506,507,I need a salary certificate for my home loan,service_request,en,boundary,service_request,0.769,TRUE
+507,508,Meri chutti abhi tak approve nahi hui,leave_management,hinglish,standard,leave_management,0.998,TRUE
+508,509,"Manager ne chutti reject kar di, ab kya karu?",leave_management,hinglish,standard,leave_management,0.986,TRUE
+509,510,Why was extra LTA deducted this month?,payroll_query,en,standard,payroll_query,0.832,TRUE
+510,511,When is the cricket tournament?,other,en,standard,other,0.98,TRUE
+511,512,Where can I edit my emergency contact on the portal?,employee_profile,en,standard,employee_profile,0.999,TRUE
+512,513,Gratuity policy ka document kahan milega?,policy_query,hinglish,unseen_policy,policy_query,0.887,TRUE
+513,514,I need an experience letter after my resignation,service_request,en,boundary,service_request,0.999,TRUE
+514,515,Payslip kahan se download karu?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+515,516,Meri SL abhi tak approve nahi hui,leave_management,hinglish,standard,leave_management,0.918,TRUE
+516,517,monday half day le sakta hu kia,leave_management,hinglish,noisy,leave_management,0.964,TRUE
+517,518,Reception kitne baje khulta hai?,other,hinglish,standard,other,0.785,TRUE
+518,519,payslip mein overtime ka paisa zyada kyun kata,payroll_query,hinglish,noisy,payroll_query,0.998,TRUE
+519,520,pls give me access to the VPN,service_request,en,noisy,service_request,1,TRUE
+520,521,please book a meeting room for friday,service_request,en,noisy,other,0.811,FALSE
+521,522,pls correct my phone number in my employee profile,employee_profile,en,noisy,employee_profile,1,TRUE
+522,523,"January salary is not credited yet, please check",payroll_query,en,standard,payroll_query,0.999,TRUE
+523,524,Rent receipt tax ke liye kahan submit karna hai?,payroll_query,hinglish,standard,payroll_query,0.875,TRUE
+524,525,I need a new monitor,service_request,en,standard,service_request,0.988,TRUE
+525,526,Where is the prayer room in the office?,other,en,standard,other,0.82,TRUE
+526,527,Can you explain the take-home pay in my payslip?,payroll_query,en,standard,payroll_query,0.999,TRUE
+527,528,Is Eid a holiday this year?,leave_management,en,standard,leave_management,0.95,TRUE
+528,529,Hi there,other,en,standard,other,0.996,TRUE
+529,530,Employee profile mein mera naam ki spelling theek karo,employee_profile,hinglish,standard,employee_profile,0.999,TRUE
+530,531,Please correct my residential address in my employee profile,employee_profile,en,standard,employee_profile,1,TRUE
+531,532,Visa ke liye employment letter chahiye,service_request,hinglish,standard,service_request,0.999,TRUE
+532,533,Email ka password reset krna hai,service_request,hinglish,noisy,service_request,0.986,TRUE
+533,534,September ki salary abhi tak credit nahi hui,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+534,535,Kaise ho?,other,hinglish,standard,other,0.998,TRUE
+535,536,Appraisal ke rules kya hai company mein?,policy_query,hinglish,unseen_policy,policy_query,0.981,TRUE
+536,537,Jira ka access chahiye,service_request,hinglish,standard,service_request,0.998,TRUE
+537,538,Where do I submit rent receipts for tax saving?,payroll_query,en,standard,payroll_query,0.841,TRUE
+538,539,Paternity leave portal pe kaise apply karu?,leave_management,hinglish,standard,leave_management,0.988,TRUE
+539,540,My date of birth is wrong in the system,employee_profile,en,standard,employee_profile,0.989,TRUE
+540,541,Rent receipt tax ke liye kahan submit krna h,payroll_query,hinglish,noisy,payroll_query,0.88,TRUE
+541,542,Can I take 5 days of comp off next week,leave_management,en,noisy,leave_management,0.997,TRUE
+542,543,Can you explain the net salary in my payslip?,payroll_query,en,standard,payroll_query,0.999,TRUE
+543,544,The TDS looks wrong in my November payslip,payroll_query,en,standard,payroll_query,1,TRUE
+544,545,Next Tuesday ki chutti apply karni hai,leave_management,hinglish,standard,leave_management,0.999,TRUE
+545,546,Portal pe PAN number kahan edit hota hai?,employee_profile,hinglish,standard,employee_profile,0.955,TRUE
+546,547,What does the leave policy say for employees on probation?,policy_query,en,boundary,policy_query,0.598,TRUE
+547,548,Dress code ke rules kya hai company mein?,policy_query,hinglish,standard,policy_query,1,TRUE
+548,549,"Hey, how are you?",other,en,standard,other,0.999,TRUE
+549,550,pls add my father as my pf nominee,employee_profile,en,noisy,employee_profile,0.99,TRUE
+550,551,Apply sick leave for tomorrow,leave_management,en,boundary,leave_management,1,TRUE
+551,552,Resign karu toh notice period kitna hai?,policy_query,hinglish,boundary,policy_query,0.996,TRUE
+552,553,"Manager ne comp off reject kar di, ab kya karu?",leave_management,hinglish,standard,leave_management,0.94,TRUE
+553,554,my bank account for salry is wrong in the system,employee_profile,en,noisy,employee_profile,0.901,TRUE
+554,555,What's on the canteen menu this Friday?,other,en,standard,other,0.999,TRUE
+555,556,Attendance system subah se kaam nahi kar raha,service_request,hinglish,standard,service_request,0.965,TRUE
+556,557,Is there a hackathon this weekend?,other,en,standard,other,0.993,TRUE
+557,558,HR se NOC milega kya? Home loan ke liye chahiye,service_request,hinglish,standard,service_request,0.985,TRUE
+558,559,"My manager rejected my maternity leave, what can I do?",leave_management,en,standard,leave_management,0.912,TRUE
+559,560,"My headset is not charging, pls raise a ticket",service_request,en,noisy,service_request,0.976,TRUE
+560,561,Shift allowance ke baare mein policy batao,policy_query,hinglish,unseen_policy,policy_query,0.787,TRUE
+561,562,Casual leave portal pe kaise apply karu?,leave_management,hinglish,standard,leave_management,0.997,TRUE
+562,563,Can you explain the company rules on travel reimbursement?,policy_query,en,standard,policy_query,1,TRUE
+563,564,Meri mummy ko medical insurance dependant add krna h,employee_profile,hinglish,noisy,employee_profile,0.962,TRUE
+564,565,Can you reset my Windows password?,service_request,en,standard,service_request,0.997,TRUE
+565,566,Where is the first aid room in the office?,other,en,standard,other,0.774,TRUE
+566,567,Is there any policy on employee referral bonus?,policy_query,en,unseen_policy,policy_query,0.574,TRUE
+567,568,I need my payslip for August,payroll_query,en,standard,payroll_query,1,TRUE
+568,569,please share the latest internal transfer guidelines,policy_query,en,unseen_policy,policy_query,0.972,TRUE
+569,570,Please book the conference hall for Monday,service_request,en,standard,other,0.835,FALSE
+570,571,Can you reset my Outlook password?,service_request,en,standard,service_request,0.995,TRUE
+571,572,Town hall mein family la sakte hai kya?,other,hinglish,standard,policy_query,0.789,FALSE
+572,573,Diwali party kab hai?,other,hinglish,standard,other,0.799,TRUE
+573,574,Please book a desk in the Bangalore office for next Tuesday,service_request,en,standard,other,0.464,FALSE
+574,575,Home loan ke liye salary certificate chahiye,service_request,hinglish,boundary,service_request,0.912,TRUE
+575,576,Next week 4 din ki casual leave chahiye,leave_management,hinglish,standard,leave_management,0.999,TRUE
+576,577,Am I allowed to post about my work on LinkedIn as per company rules?,policy_query,en,unseen_policy,policy_query,0.988,TRUE
+577,578,Can I take a half day this Thursday?,leave_management,en,standard,leave_management,0.998,TRUE
+578,579,Where is the gym in the office?,other,en,standard,other,0.913,TRUE
+579,580,SL carry forward hoga kya?,leave_management,hinglish,standard,leave_management,0.863,TRUE
+580,581,Form 12BB kahan se download karu?,payroll_query,hinglish,standard,payroll_query,0.901,TRUE
+581,582,Is weekend cricket tournament hai kya?,other,hinglish,standard,other,0.921,TRUE
+582,583,I haven't received my arrears yet,payroll_query,en,standard,payroll_query,0.999,TRUE
+583,584,confluence subah se kaam nahi kar raha,service_request,hinglish,noisy,service_request,0.92,TRUE
+584,585,"My manager rejected my bereavement leave, what can I do?",leave_management,en,standard,leave_management,0.926,TRUE
+585,586,pls correct my personal email in my employee profile,employee_profile,en,noisy,employee_profile,0.997,TRUE
+586,587,Next week 3 din ki paternity leave chahiye,leave_management,hinglish,standard,leave_management,0.999,TRUE
+587,588,Mere kitne shaadi ki chutti bache hai?,leave_management,hinglish,standard,leave_management,0.961,TRUE
+588,589,The HRA looks wrong in my May payslip,payroll_query,en,standard,payroll_query,0.997,TRUE
+589,590,I haven't received my net salary yet,payroll_query,en,standard,payroll_query,0.998,TRUE
+590,591,Appraisal policy is saal change hui kya?,policy_query,hinglish,unseen_policy,policy_query,0.985,TRUE
+591,592,What is the notice period policy?,policy_query,en,standard,policy_query,1,TRUE
+592,593,Attendance system ka access chahiye,service_request,hinglish,standard,service_request,0.99,TRUE
+593,594,how many casual leav days do i have left,leave_management,en,noisy,leave_management,0.999,TRUE
+594,595,Mere husband ko insurance nominee add krna h,employee_profile,hinglish,noisy,employee_profile,0.997,TRUE
+595,596,HRA proof tax ke liye kahan submit karna hai?,payroll_query,hinglish,standard,payroll_query,0.89,TRUE
+596,597,Can I take a half day next Wednesday?,leave_management,en,standard,leave_management,0.998,TRUE
+597,598,pls add my mother as my PF nominee,employee_profile,en,noisy,employee_profile,0.992,TRUE
+598,599,Payslip mein shift allowance zyada kyun kata?,payroll_query,hinglish,standard,payroll_query,0.998,TRUE
+599,600,Visa ke liye experience letter chahiye,service_request,hinglish,standard,service_request,0.999,TRUE
+600,601,Is mahine team outing hai kya?,other,hinglish,standard,other,0.779,TRUE
+601,602,Is hafte annual day hai kia,other,hinglish,noisy,other,0.52,TRUE
+602,603,thank u for the help,other,en,noisy,other,0.992,TRUE
+603,604,Contract employees ka PF policy kya hai?,policy_query,hinglish,boundary,payroll_query,0.827,FALSE
+604,605,Health insurance ki guidelines share karo please,policy_query,hinglish,unseen_policy,policy_query,0.943,TRUE
+605,606,15 tarikh ke liye conference hall book karo,service_request,hinglish,standard,other,0.828,FALSE
+606,607,what is the sabbatical policy?,policy_query,en,unseen_policy,policy_query,0.792,TRUE
+607,608,Company rules ke hisaab se jeans pehen ke office aana allowed hai kya?,policy_query,hinglish,unseen_policy,policy_query,0.999,TRUE
+608,609,Who approves my comp off?,leave_management,en,standard,leave_management,0.866,TRUE
+609,610,LTA mein deduction samajh nahi aaya,payroll_query,hinglish,standard,payroll_query,0.967,TRUE
+610,611,friday ko canteen mein kia khana h,other,hinglish,noisy,other,0.998,TRUE
+611,612,"Mouse baar baar hang ho raha hai, IT ticket raise karo",service_request,hinglish,standard,service_request,0.995,TRUE
+612,613,Can you explain the HRA in my payslip?,payroll_query,en,standard,payroll_query,0.991,TRUE
+613,614,I want to update my name spelling,employee_profile,en,standard,employee_profile,0.999,TRUE
+614,615,how to change my residential address in HR records,employee_profile,en,noisy,employee_profile,0.998,TRUE
+615,616,take home salary mein deduction samajh nhi aaya,payroll_query,hinglish,noisy,payroll_query,0.999,TRUE
+616,617,Company rules ke hisaab se raat 9 ke baad cab claim karna allowed hai kya?,policy_query,hinglish,unseen_policy,policy_query,0.997,TRUE
+617,618,Is there a annual day this weekend?,other,en,standard,other,0.568,TRUE
+618,619,"Theek h, samajh gaya",other,hinglish,noisy,other,0.96,TRUE
+619,620,What does our policy say about travel reimbursement?,policy_query,en,standard,policy_query,1,TRUE
+620,621,Does company policy allow me to take my laptop home on weekends?,policy_query,en,unseen_policy,policy_query,0.927,TRUE
+621,622,When will my salary for January be credited?,payroll_query,en,standard,payroll_query,1,TRUE
+622,623,Who approves my bereavement leave?,leave_management,en,standard,leave_management,0.789,TRUE
+623,624,Payslip mein LTA zyada kyun kata?,payroll_query,hinglish,standard,payroll_query,0.946,TRUE
+624,625,Is there a blood donation camp this month?,other,en,standard,other,0.979,TRUE
+625,626,"Thanks, and when will my bonus be paid?",payroll_query,en,boundary,payroll_query,0.994,TRUE
+626,627,Office mein cafeteria kahan hai?,other,hinglish,standard,other,0.997,TRUE
+627,628,What time does the reception open?,other,en,standard,other,0.818,TRUE
+628,629,I want to apply for comp off on the 15th,leave_management,en,noisy,leave_management,0.999,TRUE
+629,630,Who is organising the town hall?,other,en,standard,other,0.973,TRUE
+630,631,Annual day mein family la sakte hai kya?,other,hinglish,standard,policy_query,0.528,FALSE
+631,632,15 tarikh ki cl apply karni hai,leave_management,hinglish,noisy,leave_management,0.993,TRUE
+632,633,Is Thursday ke liye meeting room book karo,service_request,hinglish,standard,other,0.759,FALSE
+633,634,my personal email is wrong in the system,employee_profile,en,noisy,employee_profile,0.957,TRUE
+634,635,When is the yoga session?,other,en,standard,other,0.977,TRUE
+635,636,May ka payslip chahiye,payroll_query,hinglish,standard,payroll_query,0.998,TRUE
+636,637,"Naya monitor chahiye, kaise request karu?",service_request,hinglish,standard,service_request,0.987,TRUE
+637,638,Is there a team outing this week?,other,en,standard,other,0.984,TRUE
+638,639,What time does the parking open?,other,en,standard,other,0.531,TRUE
+639,640,Next week 5 din ki shaadi ki chutti chahiye,leave_management,hinglish,standard,leave_management,0.996,TRUE
+640,641,pls give me access to the shared finance drive,service_request,en,noisy,service_request,0.995,TRUE
+641,642,Is hafte blood donation camp hai kya?,other,hinglish,standard,other,0.877,TRUE
+642,643,What time does the gym open?,other,en,standard,other,0.805,TRUE
+643,644,"April salary is not credited yet, please check",payroll_query,en,standard,payroll_query,0.999,TRUE
+644,645,GitHub subah se kaam nahi kar raha,service_request,hinglish,standard,service_request,0.929,TRUE
+645,646,Relocation ke rules kya hai company mein?,policy_query,hinglish,unseen_policy,policy_query,0.99,TRUE
+646,647,I need an employment verification letter for a home loan,service_request,en,standard,service_request,0.997,TRUE
+647,648,How do I change my Aadhaar details in HR records?,employee_profile,en,standard,employee_profile,0.969,TRUE
+648,649,What is the maximum hotel amount allowed in the travel policy?,policy_query,en,boundary,policy_query,0.999,TRUE
+649,650,Sankranti ki chutti kitne din ki hai?,leave_management,hinglish,standard,leave_management,0.955,TRUE
+650,651,"Naya ghar shift kiya, records update karne h",employee_profile,hinglish,noisy,employee_profile,0.995,TRUE
+651,652,Team transfer ki guidelines share karo please,policy_query,hinglish,unseen_policy,policy_query,0.948,TRUE
+652,653,I need a new keyboard,service_request,en,standard,service_request,0.975,TRUE
+653,654,I need an experience letter for a visa application,service_request,en,standard,service_request,1,TRUE
+654,655,Does company policy allow me to work from another city for two weeks?,policy_query,en,unseen_policy,policy_query,0.978,TRUE
+655,656,need an employment verification letter for a rental agreement,service_request,en,noisy,service_request,0.999,TRUE
+656,657,Can you reset my Teams password?,service_request,en,standard,service_request,0.988,TRUE
+657,658,"Okay, got it",other,en,standard,other,0.945,TRUE
+658,659,Is there a yoga session this weekend,other,en,noisy,other,0.975,TRUE
+659,660,"Thanks, kaam ho gaya",other,hinglish,standard,other,0.988,TRUE
+660,661,I want to update my PAN number,employee_profile,en,standard,employee_profile,0.96,TRUE
+661,662,Who is organising the Diwali party?,other,en,standard,other,0.991,TRUE
+662,663,Mera personal email update karna hai,employee_profile,hinglish,standard,employee_profile,0.958,TRUE
+663,664,"Headset baar baar hang ho raha hai, IT ticket raise karo",service_request,hinglish,standard,service_request,0.993,TRUE
+664,665,Please give me access to Salesforce,service_request,en,standard,service_request,0.998,TRUE
+665,666,overtime ka paisa abhi tak nhi mila,payroll_query,hinglish,noisy,payroll_query,0.99,TRUE
+666,667,Jira subah se kaam nahi kar raha,service_request,hinglish,standard,service_request,0.974,TRUE
+667,668,Where can I edit my blood group on the portal?,employee_profile,en,standard,employee_profile,0.987,TRUE
+668,669,Probation pe leave ka policy kya hai?,policy_query,hinglish,boundary,policy_query,0.597,TRUE
+669,670,Kya weekend pe freelancing karna allowed hai? Policy kya kehti hai?,policy_query,hinglish,unseen_policy,policy_query,0.983,TRUE
+670,671,is there any policy on moonlighting,policy_query,en,unseen_policy,policy_query,0.997,TRUE
+671,672,HR se NOC milega kya? Credit card ke liye chahiye,service_request,hinglish,standard,service_request,0.985,TRUE
+672,673,The arrears looks wrong in my July payslip,payroll_query,en,standard,payroll_query,1,TRUE
+673,674,office mein gym kahan h,other,hinglish,noisy,other,0.841,TRUE
+674,675,1 December se maternity leave apply karni hai,leave_management,hinglish,boundary,leave_management,0.999,TRUE
+675,676,Who is organising the team outing?,other,en,standard,other,0.96,TRUE
+676,677,Mera naam ki spelling update karna hai,employee_profile,hinglish,standard,employee_profile,0.998,TRUE
+677,678,HR records mein naam ki spelling kaise change karu?,employee_profile,hinglish,standard,employee_profile,0.995,TRUE
+678,679,Why was extra arrears deducted this month?,payroll_query,en,standard,payroll_query,0.999,TRUE
+679,680,I want to apply for marriage leave on tomorrow,leave_management,en,standard,leave_management,0.987,TRUE
+680,681,Is hafte Diwali party hai kya?,other,hinglish,standard,other,0.676,TRUE
+681,682,kal ke liye meeting room book karo,service_request,hinglish,noisy,other,0.68,FALSE
+682,683,Hello ji,other,hinglish,standard,other,0.995,TRUE
+683,684,Can I bring my family to the cricket tournament?,other,en,standard,policy_query,0.455,FALSE
+684,685,What is the employee referral bonus policy?,policy_query,en,unseen_policy,payroll_query,0.501,FALSE
+685,686,July ki salary kab aayegi?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+686,687,Gratuity ka policy kya hai?,policy_query,hinglish,unseen_policy,policy_query,0.758,TRUE
+687,688,Employee profile mein mera qualification theek karo,employee_profile,hinglish,standard,employee_profile,0.977,TRUE
+688,689,"Headset garam ho raha hai, IT ticket raise karo",service_request,hinglish,standard,service_request,0.978,TRUE
+689,690,Parso ki shaadi ki chutti apply karni hai,leave_management,hinglish,standard,leave_management,0.99,TRUE
+690,691,Next Tuesday ki maternity leave apply karni hai,leave_management,hinglish,standard,leave_management,0.999,TRUE
+691,692,Please correct my date of birth in my employee profile,employee_profile,en,standard,employee_profile,0.997,TRUE
+692,693,Meri sick leave abhi tak approve nhi hui,leave_management,hinglish,noisy,leave_management,0.997,TRUE
+693,694,Parking kitne baje khulta hai?,other,hinglish,standard,policy_query,0.506,FALSE
+694,695,Kya apna laptop kaam ke liye use karna allowed hai? Policy kya kehti hai?,policy_query,hinglish,unseen_policy,policy_query,0.636,TRUE
+695,696,"headset on nhi ho raha, it ticket raise karo",service_request,hinglish,noisy,service_request,0.978,TRUE
+696,697,Meri comp off abhi tak approve nahi hui,leave_management,hinglish,standard,leave_management,0.992,TRUE
+697,698,Mere bete ko medical insurance dependant add karna hai,employee_profile,hinglish,standard,employee_profile,0.955,TRUE
+698,699,Is mahine overtime ka paisa kam kyun hai?,payroll_query,hinglish,standard,payroll_query,0.902,TRUE
+699,700,15 tarikh ka leave cancel karna hai,leave_management,hinglish,standard,leave_management,1,TRUE
+700,701,Employee profile mein mera address theek karo,employee_profile,hinglish,standard,employee_profile,0.999,TRUE
+701,702,PF kaise calculate hota hai?,payroll_query,hinglish,standard,payroll_query,0.997,TRUE
+702,703,Annual day kab hai?,other,hinglish,standard,other,0.691,TRUE
+703,704,Meri sick leave abhi tak approve nahi hui,leave_management,hinglish,standard,leave_management,0.997,TRUE
+704,705,Is Holi a holiday this year?,leave_management,en,standard,leave_management,0.94,TRUE
+705,706,Policy ke hisaab se maternity leave kitne din ki hoti hai?,policy_query,hinglish,boundary,policy_query,0.573,TRUE
+706,707,Who should I contact about the notice period policy?,policy_query,en,standard,policy_query,0.998,TRUE
+707,708,LTA kaise calculate hota hai?,payroll_query,hinglish,standard,leave_management,0.612,FALSE
+708,709,I need a new mouse,service_request,en,standard,service_request,0.968,TRUE
+709,710,Town hall kaun organise kar raha hai?,other,hinglish,standard,other,0.919,TRUE
+710,711,What is the PF policy for contract employees?,policy_query,en,boundary,payroll_query,0.898,FALSE
+711,712,Sankranti pe chutti hai kya?,leave_management,hinglish,standard,leave_management,0.968,TRUE
+712,713,Mobile bill policy is saal change hui kya?,policy_query,hinglish,unseen_policy,policy_query,0.967,TRUE
+713,714,Can u explain the overtime pay in my payslip,payroll_query,en,noisy,payroll_query,0.999,TRUE
+714,715,Is there a hackathon this week,other,en,noisy,other,0.996,TRUE
+715,716,I want to update my phone number,employee_profile,en,standard,employee_profile,0.999,TRUE
+716,717,"Laptop ki policy kya hai, ghar le ja sakte hai?",policy_query,hinglish,boundary,policy_query,0.598,TRUE
+717,718,Cricket tournament mein family la sakte hai kya?,other,hinglish,standard,policy_query,0.67,FALSE
+718,719,pls book a meeting room for Friday,service_request,en,noisy,other,0.769,FALSE
+719,720,Company rules ke hisaab se apna laptop kaam ke liye use karna allowed hai kya?,policy_query,hinglish,unseen_policy,service_request,0.563,FALSE
+720,721,Kya POSH ke liye koi policy hai?,policy_query,hinglish,unseen_policy,policy_query,0.99,TRUE
+721,722,Who is organising the yoga session?,other,en,standard,other,0.983,TRUE
+722,723,CL carry forward hoga kya?,leave_management,hinglish,standard,leave_management,0.921,TRUE
+723,724,Is mahine HRA kam kyun hai?,payroll_query,hinglish,standard,payroll_query,0.806,TRUE
+724,725,Is mahine bonus kam kyun hai?,payroll_query,hinglish,standard,payroll_query,0.994,TRUE
+725,726,"My manager rejected my marriage leave, what can I do?",leave_management,en,standard,leave_management,0.943,TRUE
+726,727,payslip mein pf zyada kyun kata?,payroll_query,hinglish,noisy,payroll_query,0.999,TRUE
+727,728,Can I carry forward my unused marriage leave?,leave_management,en,standard,leave_management,0.944,TRUE
+728,729,where can i edit my name spelling on the portal,employee_profile,en,noisy,employee_profile,0.997,TRUE
+729,730,Kya dusre city se 2 hafte kaam karna allowed hai? Policy kya kehti hai?,policy_query,hinglish,unseen_policy,policy_query,0.972,TRUE
+730,731,need a new laptop,service_request,en,noisy,service_request,0.999,TRUE
+731,732,Resign ke baad experience letter chahiye,service_request,hinglish,boundary,service_request,0.998,TRUE
+732,733,"Overtime ka paisa galat cut hua hai, check karo",payroll_query,hinglish,standard,payroll_query,0.996,TRUE
+733,734,need a new mouse,service_request,en,noisy,service_request,0.971,TRUE
+734,735,Please correct my PAN number in my employee profile,employee_profile,en,standard,employee_profile,0.99,TRUE
+735,736,Please share the latest notice period guidelines,policy_query,en,standard,policy_query,0.999,TRUE
+736,737,Am I allowed to do freelance work on weekends as per company rules?,policy_query,en,unseen_policy,policy_query,0.983,TRUE
+737,738,How do I apply for earned leave?,leave_management,en,standard,leave_management,0.987,TRUE
+738,739,"Naya keyboard chahiye, kaise request karu?",service_request,hinglish,standard,service_request,0.984,TRUE
+739,740,Where can I read the moonlighting policy document?,policy_query,en,unseen_policy,policy_query,0.996,TRUE
+740,741,"hey, how are u",other,en,noisy,other,0.999,TRUE
+741,742,Is hafte cricket tournament hai kya?,other,hinglish,standard,other,0.908,TRUE
+742,743,Work from home ke baare mein policy batao,policy_query,hinglish,standard,policy_query,1,TRUE
+743,744,PF nominee mein wife ka naam add karo,employee_profile,hinglish,boundary,employee_profile,0.989,TRUE
+744,745,Monday ki shaadi ki chutti apply karni hai,leave_management,hinglish,standard,leave_management,0.997,TRUE
+745,746,paternity leave carry forward hoga kia,leave_management,hinglish,noisy,leave_management,0.928,TRUE
+746,747,How do I download my Form 16?,payroll_query,en,standard,payroll_query,0.989,TRUE
+747,748,i want to update my highest qualification,employee_profile,en,noisy,employee_profile,0.912,TRUE
+748,749,Who should I contact about the background verification policy?,policy_query,en,unseen_policy,policy_query,0.988,TRUE
+749,750,The VPN is not working since morning,service_request,en,standard,service_request,0.999,TRUE
+750,751,Durga Puja ki chutti kitne din ki hai?,leave_management,hinglish,standard,leave_management,0.933,TRUE
+751,752,Where can I edit my phone number on the portal?,employee_profile,en,standard,employee_profile,0.998,TRUE
+752,753,Side job policy is saal change hui kya?,policy_query,hinglish,unseen_policy,policy_query,0.995,TRUE
+753,754,Parso half day le sakta hu kya?,leave_management,hinglish,standard,leave_management,0.938,TRUE
+754,755,HR records mein PAN number kaise change karu?,employee_profile,hinglish,standard,employee_profile,0.96,TRUE
+755,756,Kal ka leave cancel karna hai,leave_management,hinglish,standard,leave_management,0.999,TRUE
+756,757,Background verification policy is saal change hui kya?,policy_query,hinglish,unseen_policy,policy_query,0.995,TRUE
+757,758,meri wife ko pf nominee add krna hai,employee_profile,hinglish,noisy,employee_profile,0.992,TRUE
+758,759,Gratuity policy is saal change hui kya?,policy_query,hinglish,unseen_policy,policy_query,0.809,TRUE
+759,760,Background verification ke baare mein policy batao,policy_query,hinglish,unseen_policy,policy_query,0.98,TRUE
+760,761,I want to apply for sick leave on next Tuesday,leave_management,en,standard,leave_management,0.999,TRUE
+761,762,System mein mera naam ki spelling galat hai,employee_profile,hinglish,standard,employee_profile,0.994,TRUE
+762,763,Meri earned leave abhi tak approve nahi hui,leave_management,hinglish,standard,leave_management,0.997,TRUE
+763,764,"I changed my bank, how do I update my records?",employee_profile,en,standard,employee_profile,0.998,TRUE
+764,765,Ganesh Chaturthi ki chutti kitne din ki hai?,leave_management,hinglish,standard,leave_management,0.931,TRUE
+765,766,please cancel my marriage leave for next wednesday,leave_management,en,noisy,leave_management,0.999,TRUE
+766,767,visa ke liye address proof letter chahie,service_request,hinglish,noisy,service_request,0.95,TRUE
+767,768,yoga session kaun organise kar raha h,other,hinglish,noisy,other,0.934,TRUE
+768,769,I need an address proof letter for a visa application,service_request,en,standard,service_request,0.969,TRUE
+769,770,Can you explain the overtime pay in my payslip?,payroll_query,en,standard,payroll_query,0.998,TRUE
+770,771,Is Onam a holiday this year?,leave_management,en,standard,leave_management,0.957,TRUE
+771,772,I need a new docking station,service_request,en,standard,service_request,0.988,TRUE
+772,773,Please give me access to the attendance system,service_request,en,standard,service_request,0.984,TRUE
+773,774,can hr issue an employment verification letter? it's for a home loan,service_request,en,noisy,service_request,0.998,TRUE
+774,775,Please cancel my marriage leave for Monday,leave_management,en,standard,leave_management,0.999,TRUE
+775,776,Can HR issue an employment verification letter? It's for a rental agreement,service_request,en,standard,service_request,0.999,TRUE
+776,777,Please add my husband as my insurance nominee,employee_profile,en,standard,employee_profile,0.998,TRUE
+777,778,I want to apply for sick leave on tomorrow,leave_management,en,standard,leave_management,0.999,TRUE
+778,779,What does our policy say about mobile bill reimbursement?,policy_query,en,unseen_policy,policy_query,0.998,TRUE
+779,780,Where is the pantry in the office?,other,en,standard,other,0.98,TRUE
+780,781,I haven't received my LTA yet,payroll_query,en,standard,leave_management,0.829,FALSE
+781,782,Ugadi ki chutti kitne din ki hai?,leave_management,hinglish,standard,leave_management,0.94,TRUE
+782,783,Kya appraisal ke liye koi policy hai?,policy_query,hinglish,unseen_policy,policy_query,0.991,TRUE
+783,784,Hackathon mein family la sakte hai kya?,other,hinglish,standard,policy_query,0.821,FALSE
+784,785,Can you explain the company rules on relocation?,policy_query,en,unseen_policy,policy_query,0.994,TRUE
+785,786,pls share the latest probation guidelines,policy_query,en,unseen_policy,policy_query,0.991,TRUE
+786,787,Please share the latest dress code guidelines,policy_query,en,standard,policy_query,1,TRUE
+787,788,Is there a holiday on Christmas in the Hyderabad office?,leave_management,en,standard,leave_management,0.966,TRUE
+788,789,I want to apply for maternity leave on the 15th,leave_management,en,standard,leave_management,0.997,TRUE
+789,790,Please add my father as my dependant for medical insurance,employee_profile,en,standard,employee_profile,0.955,TRUE
+790,791,Is there a cricket tournament this weekend?,other,en,standard,other,0.991,TRUE
+791,792,What does our policy say about gift acceptance?,policy_query,en,unseen_policy,policy_query,0.996,TRUE
+792,793,Chutti carry forward hoga kya?,leave_management,hinglish,standard,leave_management,0.957,TRUE
+793,794,Office mein first aid room kahan hai?,other,hinglish,standard,other,0.729,TRUE
+794,795,Social media ki guidelines share karo please,policy_query,hinglish,unseen_policy,policy_query,0.953,TRUE
+795,796,GitHub is not working since morning,service_request,en,standard,service_request,0.952,TRUE
+796,797,"Theek hai, samajh gaya",other,hinglish,standard,other,0.945,TRUE
+797,798,Variable pay kaise calculate hota hai?,payroll_query,hinglish,standard,payroll_query,0.984,TRUE
+798,799,What does our policy say about dress code?,policy_query,en,standard,policy_query,1,TRUE
+799,800,why was extra incentive deducted this month,payroll_query,en,noisy,payroll_query,0.998,TRUE
+800,801,"i got married, how to update my records",employee_profile,en,noisy,employee_profile,0.999,TRUE
+801,802,Is there a cricket tournament this week?,other,en,standard,other,0.991,TRUE
+802,803,Is there a holiday on Ugadi in the Hyderabad office?,leave_management,en,standard,leave_management,0.969,TRUE
+803,804,Blood donation camp mein family la sakte hai kya?,other,hinglish,standard,policy_query,0.613,FALSE
+804,805,Company rules ke hisaab se hafte mein sirf 3 din office aana allowed hai kya?,policy_query,hinglish,unseen_policy,policy_query,0.935,TRUE
+805,806,Monday ke liye cab book karo,service_request,hinglish,standard,other,0.761,FALSE
+806,807,System mein mera PAN number galat hai,employee_profile,hinglish,standard,employee_profile,0.949,TRUE
+807,808,Office mein reception kahan hai?,other,hinglish,standard,other,0.867,TRUE
+808,809,System mein mera Aadhaar galat hai,employee_profile,hinglish,standard,employee_profile,0.939,TRUE
+809,810,hr se noc milega kia? credit card ke liye chahie,service_request,hinglish,noisy,service_request,0.775,TRUE
+810,811,Take home salary kaise calculate hota hai?,payroll_query,hinglish,standard,payroll_query,0.998,TRUE
+811,812,September ka payslip chahiye,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+812,813,February ki salary kab aayegi?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+813,814,"November salary is not credited yet, please check",payroll_query,en,standard,payroll_query,0.999,TRUE
+814,815,need an employment verification letter for a visa application,service_request,en,noisy,service_request,0.999,TRUE
+815,816,Please give me access to Jira,service_request,en,standard,service_request,0.997,TRUE
+816,817,Windows ka password reset karna hai,service_request,hinglish,standard,service_request,0.994,TRUE
+817,818,Portal pe personal email kahan edit hota hai,employee_profile,hinglish,noisy,employee_profile,0.928,TRUE
+818,819,Please correct my personal email in my employee profile,employee_profile,en,standard,employee_profile,0.997,TRUE
+819,820,Please give me access to GitHub,service_request,en,standard,service_request,0.997,TRUE
+820,821,"My keyboard is showing a blue screen, please raise a ticket",service_request,en,standard,service_request,0.993,TRUE
+821,822,pls correct my highest qualification in my employee profile,employee_profile,en,noisy,employee_profile,0.987,TRUE
+822,823,How is shift allowance calculated in my salary?,payroll_query,en,standard,payroll_query,0.958,TRUE
+823,824,Professional tax kaise calculate hota hai?,payroll_query,hinglish,standard,payroll_query,0.995,TRUE
+824,825,Monday half day le sakta hu kya?,leave_management,hinglish,standard,leave_management,0.972,TRUE
+825,826,Why is my salary lower this month?,payroll_query,en,boundary,payroll_query,0.999,TRUE
+826,827,Please correct my Aadhaar details in my employee profile,employee_profile,en,standard,employee_profile,0.987,TRUE
+827,828,I need an experience letter for a rental agreement,service_request,en,standard,service_request,0.998,TRUE
+828,829,"Incentive galat cut hua hai, check karo",payroll_query,hinglish,standard,payroll_query,0.996,TRUE
+829,830,Meri shaadi ki chutti abhi tak approve nahi hui,leave_management,hinglish,standard,leave_management,0.989,TRUE
+830,831,Who should I contact about the code of conduct policy?,policy_query,en,standard,policy_query,1,TRUE
+831,832,Salesforce ka access chahiye,service_request,hinglish,standard,service_request,0.998,TRUE
+832,833,Employee profile mein mera date of birth theek karo,employee_profile,hinglish,standard,employee_profile,0.996,TRUE
+833,834,"Thank you, bonus kab milega?",payroll_query,hinglish,boundary,payroll_query,0.969,TRUE
+834,835,can you explain the company rules on anti-harassment (posh),policy_query,en,unseen_policy,policy_query,0.998,TRUE
+835,836,Payslip mein bonus zyada kyun kata?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+836,837,eid pe chutti h kia,leave_management,hinglish,noisy,leave_management,0.956,TRUE
+837,838,HR se address proof letter milega kya? Home loan ke liye chahiye,service_request,hinglish,standard,service_request,0.982,TRUE
+838,839,Where do I submit HRA proofs for tax saving?,payroll_query,en,standard,payroll_query,0.915,TRUE
+839,840,office mein parking kahan h,other,hinglish,noisy,policy_query,0.455,FALSE
+840,841,What does our policy say about health insurance coverage?,policy_query,en,unseen_policy,policy_query,0.992,TRUE
+841,842,Please correct my name spelling in my employee profile,employee_profile,en,standard,employee_profile,0.999,TRUE
+842,843,Can you explain the company rules on internet reimbursement?,policy_query,en,unseen_policy,policy_query,0.997,TRUE
+843,844,Is hafte hackathon hai kya?,other,hinglish,standard,other,0.827,TRUE
+844,845,How many comp off days do I have left?,leave_management,en,standard,leave_management,0.998,TRUE
+845,846,"I moved to a new house, how do I update my records?",employee_profile,en,standard,employee_profile,0.999,TRUE
+846,847,Good morning,other,en,standard,other,0.999,TRUE
+847,848,"Baby hua hai, records update karne hai",employee_profile,hinglish,standard,employee_profile,0.942,TRUE
+848,849,I haven't received my overtime pay yet,payroll_query,en,standard,payroll_query,0.995,TRUE
+849,850,The TDS looks wrong in my October payslip,payroll_query,en,standard,payroll_query,1,TRUE
+850,851,I need an experience letter for a passport application,service_request,en,standard,service_request,1,TRUE
+851,852,I need an address proof letter for a rental agreement,service_request,en,standard,service_request,0.934,TRUE
+852,853,"Naya ghar shift kiya, records update karne hai",employee_profile,hinglish,standard,employee_profile,0.996,TRUE
+853,854,Is mahine PF zyada kyun kata?,payroll_query,hinglish,boundary,payroll_query,0.991,TRUE
+854,855,Who do I talk to about the overtime policy? Thanks,policy_query,en,boundary,policy_query,0.979,TRUE
+855,856,Gratuity ke rules kya hai company mein?,policy_query,hinglish,unseen_policy,policy_query,0.612,TRUE
+856,857,"Keyboard on nahi ho raha, IT ticket raise karo",service_request,hinglish,standard,service_request,0.997,TRUE
+857,858,Mere bete ko PF nominee add karna hai,employee_profile,hinglish,standard,employee_profile,0.986,TRUE
+858,859,Bonus abhi tak nahi mila,payroll_query,hinglish,standard,payroll_query,0.998,TRUE
+859,860,Please book a cab for this Thursday,service_request,en,standard,other,0.84,FALSE
+860,861,April ki salary kab aayegi?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+861,862,Can HR issue an employment verification letter? It's for a passport application,service_request,en,noisy,service_request,0.999,TRUE
+862,863,sankranti ki chutti kitne din ki h?,leave_management,hinglish,noisy,leave_management,0.952,TRUE
+863,864,what is the whistleblower policy,policy_query,en,unseen_policy,policy_query,0.996,TRUE
+864,865,Why was extra overtime pay deducted this month?,payroll_query,en,standard,payroll_query,0.997,TRUE
+865,866,Variable pay mein deduction samajh nahi aaya,payroll_query,hinglish,standard,payroll_query,0.997,TRUE
+866,867,Please give me access to Confluence,service_request,en,standard,service_request,0.996,TRUE
+867,868,Is there a town hall this month?,other,en,standard,other,0.963,TRUE
+868,869,Has the conflict of interest policy changed this year?,policy_query,en,unseen_policy,policy_query,0.998,TRUE
+869,870,How do I change my blood group in HR records?,employee_profile,en,standard,employee_profile,0.976,TRUE
+870,871,Please add my husband as my PF nominee,employee_profile,en,standard,employee_profile,0.992,TRUE
+871,872,Please correct my phone number in my employee profile,employee_profile,en,standard,employee_profile,1,TRUE
+872,873,Who approves my maternity leave?,leave_management,en,standard,leave_management,0.857,TRUE
+873,874,Good morning sir,other,hinglish,standard,other,0.998,TRUE
+874,875,pls book a cab for next Tuesday,service_request,en,noisy,other,0.805,FALSE
+875,876,is there a town hall this week,other,en,noisy,other,0.952,TRUE
+876,877,Kal canteen mein kya khana hai?,other,hinglish,standard,other,0.999,TRUE
+877,878,Incentive abhi tak nahi mila,payroll_query,hinglish,standard,payroll_query,0.982,TRUE
+878,879,company rules ke hisaab se apna laptop kaam ke liye use krna allowed hai kia,policy_query,hinglish,unseen_policy,service_request,0.536,FALSE
+879,880,Employee profile mein mera PAN number theek karo,employee_profile,hinglish,standard,employee_profile,0.989,TRUE
+880,881,Is there a holiday on Holi in the Hyderabad office?,leave_management,en,standard,leave_management,0.944,TRUE
+881,882,15 tarikh ke liye meeting room book kro,service_request,hinglish,noisy,other,0.674,FALSE
+882,883,Mere bete ko insurance nominee add karna hai,employee_profile,hinglish,standard,employee_profile,0.997,TRUE
+883,884,system mein mera address galat h,employee_profile,hinglish,noisy,employee_profile,0.996,TRUE
+884,885,June ka payslip chahiye,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+885,886,where can i edit my highest qualification on the portal,employee_profile,en,noisy,employee_profile,0.833,TRUE
+886,887,Pantry kitne baje khulta hai?,other,hinglish,standard,other,0.978,TRUE
+887,888,HR se address proof letter milega kya? Passport ke liye chahiye,service_request,hinglish,standard,service_request,0.972,TRUE
+888,889,Is Thursday ke liye conference hall book karo,service_request,hinglish,standard,other,0.776,FALSE
+889,890,System mein mera mobile number galat hai,employee_profile,hinglish,standard,employee_profile,0.989,TRUE
+890,891,HR se address proof letter milega kya? Visa ke liye chahiye,service_request,hinglish,standard,service_request,0.985,TRUE
+891,892,I need a new headset,service_request,en,standard,service_request,0.962,TRUE
+892,893,Why was extra shift allowance deducted this month?,payroll_query,en,standard,payroll_query,0.995,TRUE
+893,894,Visa ke liye address proof letter chahiye,service_request,hinglish,standard,service_request,0.97,TRUE
+894,895,ugadi pe chutti h kya?,leave_management,hinglish,noisy,leave_management,0.949,TRUE
+895,896,My casual leave request is still pending approval,leave_management,en,standard,leave_management,0.999,TRUE
+896,897,What time does the prayer room open?,other,en,standard,other,0.654,TRUE
+897,898,hybrid office ke baare mein policy batao,policy_query,hinglish,unseen_policy,policy_query,0.997,TRUE
+898,899,rent agreement ke liye noc chahie,service_request,hinglish,noisy,service_request,0.795,TRUE
+899,900,Please book the conference hall for next Wednesday,service_request,en,standard,other,0.816,FALSE
+900,901,"February salary is not credited yet, please check",payroll_query,en,standard,payroll_query,0.999,TRUE
+901,902,HR records mein Aadhaar kese change karu,employee_profile,hinglish,noisy,employee_profile,0.966,TRUE
+902,903,Update my PF nominee to my wife,employee_profile,en,boundary,employee_profile,0.996,TRUE
+903,904,Payslip mein professional tax zyada kyun kata?,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+904,905,Is mahine incentive kam kyun hai?,payroll_query,hinglish,standard,payroll_query,0.958,TRUE
+905,906,"i changed my bank, how to update my records?",employee_profile,en,noisy,employee_profile,0.998,TRUE
+906,907,My residential address is wrong in the system,employee_profile,en,standard,employee_profile,0.999,TRUE
+907,908,TDS mein deduction samajh nahi aaya,payroll_query,hinglish,standard,payroll_query,0.998,TRUE
+908,909,Thanks a lot,other,en,standard,other,0.998,TRUE
+909,910,Please book a meeting room for next Tuesday,service_request,en,standard,other,0.822,FALSE
+910,911,How do I change my date of birth in HR records?,employee_profile,en,standard,employee_profile,0.98,TRUE
+911,912,How do I change my personal email in HR records?,employee_profile,en,standard,employee_profile,0.986,TRUE
+912,913,What time does the pantry open?,other,en,standard,other,0.982,TRUE
+913,914,Aaj canteen mein kya khana hai?,other,hinglish,standard,other,0.999,TRUE
+914,915,Please cancel my marriage leave for this Thursday,leave_management,en,standard,leave_management,0.999,TRUE
+915,916,PF abhi tak nahi mila,payroll_query,hinglish,standard,payroll_query,0.991,TRUE
+916,917,I need an experience letter for a home loan,service_request,en,standard,service_request,0.999,TRUE
+917,918,"Great, thanks",other,en,standard,other,0.997,TRUE
+918,919,Is there a team outing this month?,other,en,standard,other,0.983,TRUE
+919,920,Meri beti ko insurance nominee add karna hai,employee_profile,hinglish,standard,employee_profile,0.998,TRUE
+920,921,"I had a baby, how do I update my records?",employee_profile,en,standard,employee_profile,0.987,TRUE
+921,922,Home loan ke liye address proof letter chahiye,service_request,hinglish,standard,service_request,0.933,TRUE
+922,923,Has the travel reimbursement policy changed this year?,policy_query,en,noisy,policy_query,1,TRUE
+923,924,"My monitor is showing a blue screen, please raise a ticket",service_request,en,standard,service_request,0.994,TRUE
+924,925,Is there a Diwali party this week?,other,en,standard,other,0.97,TRUE
+925,926,Background verification ka policy kya hai?,policy_query,hinglish,unseen_policy,policy_query,0.983,TRUE
+926,927,Jira subah se kaam nhi kar raha,service_request,hinglish,noisy,service_request,0.981,TRUE
+927,928,HR se experience letter milega kya? Home loan ke liye chahiye,service_request,hinglish,standard,service_request,0.999,TRUE
+928,929,Diwali ki chutti kab hai is saal?,leave_management,hinglish,boundary,leave_management,0.936,TRUE
+929,930,HR records mein personal email kaise change karu?,employee_profile,hinglish,standard,employee_profile,0.978,TRUE
+930,931,My marriage leave request is still pending approval,leave_management,en,standard,leave_management,0.981,TRUE
+931,932,Has the alcohol at office events policy changed this year,policy_query,en,unseen_policy,policy_query,0.951,TRUE
+932,933,who approves my paternity leav,leave_management,en,noisy,leave_management,0.904,TRUE
+933,934,Company rules ke hisaab se vendor se gift lena allowed hai kya?,policy_query,hinglish,unseen_policy,policy_query,0.993,TRUE
+934,935,"shaadi ho gayi, records update karne h",employee_profile,hinglish,noisy,employee_profile,0.999,TRUE
+935,936,Can I take 3 days of casual leave next week?,leave_management,en,standard,leave_management,0.999,TRUE
+936,937,Arrears kaise calculate hota hai?,payroll_query,hinglish,standard,payroll_query,0.998,TRUE
+937,938,Overtime ka paisa mein deduction samajh nahi aaya,payroll_query,hinglish,standard,payroll_query,0.985,TRUE
+938,939,am i allowed to accept a gift from a vendor as per company rules,policy_query,en,unseen_policy,policy_query,0.995,TRUE
+939,940,Please share the latest whistleblower guidelines,policy_query,en,unseen_policy,policy_query,0.982,TRUE
+940,941,Next week 3 din ki maternity leave chahiye,leave_management,hinglish,standard,leave_management,0.998,TRUE
+941,942,HR records mein blood group kaise change karu?,employee_profile,hinglish,standard,employee_profile,0.982,TRUE
+942,943,How do I change my highest qualification in HR records?,employee_profile,en,standard,employee_profile,0.873,TRUE
+943,944,I can't log in to the HR portal,service_request,en,boundary,service_request,0.986,TRUE
+944,945,HR records mein mobile number kese change karu?,employee_profile,hinglish,noisy,employee_profile,0.997,TRUE
+945,946,Referral bonus policy ka document kahan milega?,policy_query,hinglish,unseen_policy,policy_query,0.53,TRUE
+946,947,Meri casual leave abhi tak approve nahi hui,leave_management,hinglish,standard,leave_management,0.998,TRUE
+947,948,Is mahine salary kam kyun aayi?,payroll_query,hinglish,boundary,payroll_query,0.995,TRUE
+948,949,Who approves my earned leave?,leave_management,en,standard,leave_management,0.929,TRUE
+949,950,How do I change my PAN number in HR records?,employee_profile,en,standard,employee_profile,0.952,TRUE
+950,951,Mera emergency contact update karna hai,employee_profile,hinglish,standard,employee_profile,1,TRUE
+951,952,Next week 2 din ki maternity leave chahiye,leave_management,hinglish,standard,leave_management,0.998,TRUE
+952,953,Can I bring my family to the town hall?,other,en,standard,other,0.422,TRUE
+953,954,Is Thursday ka leave cancel karna hai,leave_management,hinglish,standard,leave_management,0.998,TRUE
+954,955,Is there a town hall this weekend?,other,en,standard,other,0.967,TRUE
+955,956,My comp off request is still pending approval,leave_management,en,standard,leave_management,0.997,TRUE
+956,957,Friday ko canteen mein kya khana hai?,other,hinglish,standard,other,0.999,TRUE
+957,958,Please cancel my maternity leave for tomorrow,leave_management,en,standard,leave_management,0.999,TRUE
+958,959,Can I take a half day the 15th?,leave_management,en,standard,leave_management,0.998,TRUE
+959,960,HR records mein date of birth kaise change karu?,employee_profile,hinglish,standard,employee_profile,0.984,TRUE
+960,961,Office mein gym kahan hai?,other,hinglish,standard,other,0.807,TRUE
+961,962,I haven't received my HRA yet,payroll_query,en,standard,payroll_query,0.873,TRUE
+962,963,Meri wife ko PF nominee add karna hai,employee_profile,hinglish,standard,employee_profile,0.992,TRUE
+963,964,Can I take 4 days of maternity leave next week?,leave_management,en,standard,leave_management,0.996,TRUE
+964,965,The attendance system is not working since morning,service_request,en,standard,service_request,0.967,TRUE
+965,966,Is mahine yoga session hai kya?,other,hinglish,standard,other,0.743,TRUE
+966,967,System mein mera blood group galat hai,employee_profile,hinglish,standard,employee_profile,0.978,TRUE
+967,968,Vendor gift ki guidelines share karo please,policy_query,hinglish,unseen_policy,policy_query,0.962,TRUE
+968,969,Team outing kaun organise kar raha hai?,other,hinglish,standard,other,0.891,TRUE
+969,970,HR se experience letter milega kya? Visa ke liye chahiye,service_request,hinglish,standard,service_request,1,TRUE
+970,971,Outlook ka password reset karna h,service_request,hinglish,noisy,service_request,0.987,TRUE
+971,972,TDS abhi tak nahi mila,payroll_query,hinglish,standard,payroll_query,0.998,TRUE
+972,973,Is Pongal a holiday this year?,leave_management,en,standard,leave_management,0.964,TRUE
+973,974,Employee profile mein mera mobile number theek karo,employee_profile,hinglish,standard,employee_profile,0.998,TRUE
+974,975,Please add my wife as my insurance nominee,employee_profile,en,standard,employee_profile,0.998,TRUE
+975,976,I want to apply for bereavement leave on this Thursday,leave_management,en,standard,leave_management,0.998,TRUE
+976,977,need my payslip for december,payroll_query,en,noisy,payroll_query,0.999,TRUE
+977,978,Is there any policy on background verification?,policy_query,en,unseen_policy,policy_query,0.992,TRUE
+978,979,Kya whistleblower ke liye koi policy hai?,policy_query,hinglish,unseen_policy,policy_query,0.994,TRUE
+979,980,mere kitne cl bache h,leave_management,hinglish,noisy,employee_profile,0.924,FALSE
+980,981,Bonus kaise calculate hota hai?,payroll_query,hinglish,standard,payroll_query,0.996,TRUE
+981,982,December ka payslip chahiye,payroll_query,hinglish,standard,payroll_query,0.999,TRUE
+982,983,"Manager ne maternity leave reject kar di, ab kya karu?",leave_management,hinglish,standard,leave_management,0.954,TRUE
+983,984,HR records mein blood group kese change karu,employee_profile,hinglish,noisy,employee_profile,0.981,TRUE
+984,985,Who is organising the cricket tournament?,other,en,standard,other,0.991,TRUE
+985,986,The LTA looks wrong in my December payslip,payroll_query,en,standard,payroll_query,0.997,TRUE
+986,987,What is the rule for buying out the notice period?,policy_query,en,boundary,policy_query,0.998,TRUE
+987,988,is weekend team outing h kya,other,hinglish,noisy,other,0.629,TRUE
+988,989,"bank change kiya, records update karne h",employee_profile,hinglish,noisy,employee_profile,0.997,TRUE
+989,990,can i take 4 days of earned leave next week,leave_management,en,noisy,leave_management,0.998,TRUE
+990,991,How many bereavement leav days do I have left?,leave_management,en,noisy,leave_management,0.992,TRUE
+991,992,Hybrid office policy is saal change hui kya?,policy_query,hinglish,unseen_policy,policy_query,0.997,TRUE
+992,993,Good night,other,en,standard,other,0.998,TRUE
+993,994,Am I allowed to come to office in jeans as per company rules?,policy_query,en,unseen_policy,policy_query,1,TRUE
+994,995,Code of conduct ki guidelines share karo please,policy_query,hinglish,standard,policy_query,0.999,TRUE
+995,996,Meri wife ko insurance nominee add karna hai,employee_profile,hinglish,standard,employee_profile,0.998,TRUE
+996,997,Is mahine take home salary kam kyun hai?,payroll_query,hinglish,standard,payroll_query,0.996,TRUE
+997,998,I want to apply for sick leav on the 15th,leave_management,en,noisy,leave_management,0.999,TRUE
+998,999,vpn subah se kaam nahi kar raha,service_request,hinglish,noisy,service_request,0.998,TRUE
+999,1000,dress code ka policy kia h,policy_query,hinglish,noisy,policy_query,1,TRUE
