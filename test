@@ -1,0 +1,14 @@
+	Turion Jev 31B	GLiDE v1.2	d3-ultra
+Maker	Turion AI	Fastino Labs	vLLM Semantic Router
+Score	70.47	71.52	70.18
+Median latency	116 ms	93 ms	201 ms
+Calibration	1.9 (best)	2.0	6.7 (weakest)
+Size	31B, about half in FP8	26B, 52 GB	26B, 52 GB
+Licence	Apache-2.0	Fastino Community License	Apache-2.0
+Inputs	Text	Text, images	Text, images, video
+
+Turion Jev 31B. It’s the best balance of speed, calibration and an open licence, and FP8 means a cheaper GPU. Drawbacks: it’s a first release from a small team, it was trained on only about 24,500 synthetic examples, and it doesn’t list which languages it supports.
+
+GLiDE v1.2. It has the highest score and is fast. Drawbacks: the licence limits production use by large companies, so legal must clear it, and its slowest requests can take over a second.
+
+d3-ultra. It has the strongest backing and the best worst-case speed, around 670 ms. It also uses the same API as d3-mini, which already scored 94.1% on your HR test, including 93.4% on Hinglish. Drawbacks: its calibration is the weakest, and it runs custom code that security should review.
