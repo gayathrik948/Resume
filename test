@@ -12,3 +12,8 @@ Turion Jev 31B. It’s the best balance of speed, calibration and an open licenc
 GLiDE v1.2. It has the highest score and is fast. Drawbacks: the licence limits production use by large companies, so legal must clear it, and its slowest requests can take over a second.
 
 d3-ultra. It has the strongest backing and the best worst-case speed, around 670 ms. It also uses the same API as d3-mini, which already scored 94.1% on your HR test, including 93.4% on Hinglish. Drawbacks: its calibration is the weakest, and it runs custom code that security should review.
+
+
+	Turion Jev 31B	GLiDE v1.2	Free Colab T4
+Size in memory	~62 GB (BF16), ~31 GB in FP8	52 GB, needs an 80 GB GPU	15 GB GPU, ~12 GB RAM
+
